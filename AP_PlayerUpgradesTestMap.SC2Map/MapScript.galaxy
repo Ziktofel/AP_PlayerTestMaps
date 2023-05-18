@@ -1,0 +1,192 @@
+//==================================================================================================
+// 
+// Generated Map Script
+// 
+// Name:   
+// 
+//==================================================================================================
+include "TriggerLibs/NativeLib"
+include "Lib15EF4C78"
+
+//--------------------------------------------------------------------------------------------------
+// Library Initialization
+//--------------------------------------------------------------------------------------------------
+void InitLibs () {
+    libNtve_InitLib();
+    lib15EF4C78_InitLib();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Variables
+//--------------------------------------------------------------------------------------------------
+trigger gt_GiveUnitUpgrades;
+trigger gt___init;
+trigger gt_StimMarine;
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: GiveUnitUpgrades
+//--------------------------------------------------------------------------------------------------
+bool gt_GiveUnitUpgrades_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    TechTreeUpgradeAddLevel(1, "AP_MarineStimpack", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CombatShield", 1);
+    TechTreeUpgradeAddLevel(1, "AP_StabilizerMedPacks", 1);
+    TechTreeUpgradeAddLevel(1, "AP_JackhammerConcussionGrenades", 1);
+    TechTreeUpgradeAddLevel(1, "AP_JuggernautPlating", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MarauderLifeBoost", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BearclawNozzles", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FirebatJuggernautPlating", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ReaperD8Charge", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ClusterBomb", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ReaperStimpack", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ReaperU238Rounds", 1);
+    TechTreeUpgradeAddLevel(1, "AP_TurboChargedEngines", 1);
+    TechTreeUpgradeAddLevel(1, "AP_TwinLinkedFlameThrowers", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HellionCampaignInfernalPreIgniter", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CerberusMines", 1);
+    TechTreeUpgradeAddLevel(1, "AP_NanoConstructor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ScavengingSystems", 1);
+    TechTreeUpgradeAddLevel(1, "AP_VultureAutoRepair", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AresClassWeaponsSystem", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MultilockTargetingSystems", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BurstCapacitors", 1);
+    TechTreeUpgradeAddLevel(1, "AP_Hyperfluxor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ShapedHull", 1);
+    TechTreeUpgradeAddLevel(1, "AP_TriLithiumPowerCells", 1);
+    TechTreeUpgradeAddLevel(1, "AP_TungstenSpikes", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SiegeTech", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MaelstromRounds", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SiegeTankShapedBlast", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AdvancedHealingAI", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AuxiliaryMedBots", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ExpandedHull", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MedivacRapidDeployment", 1);
+    TechTreeUpgradeAddLevel(1, "AP_WraithCloak", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CloakDistortionField", 1);
+    TechTreeUpgradeAddLevel(1, "AP_DynamicPowerRouting", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AresClassWeaponsSystemViking", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HALORockets", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BansheeCloak", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BansheeCloakedDamage", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CrossSpectrumDampeners", 1);
+    TechTreeUpgradeAddLevel(1, "AP_DistortionBlasters", 1);
+    TechTreeUpgradeAddLevel(1, "AP_DistortionThrusters", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ClusterWarheads", 1);
+    TechTreeUpgradeAddLevel(1, "AP_YamatoCannon", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HurricaneMissiles", 1);
+    TechTreeUpgradeAddLevel(1, "AP_DefensiveMatrix", 1);
+    TechTreeUpgradeAddLevel(1, "AP_OcularImplants", 1);
+    TechTreeUpgradeAddLevel(1, "AP_PermanentCloakGhost", 1);
+    TechTreeUpgradeAddLevel(1, "AP_UltrasonicPulse", 1);
+    TechTreeUpgradeAddLevel(1, "AP_PermanentCloakSpectre", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ImpalerRounds", 1);
+    TechTreeUpgradeAddLevel(1, "AP_330mmBarrageCannons", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MechanicalRebirth", 1);
+    TechTreeUpgradeAddLevel(1, "AP_LiberatorAGRangeUpgrade", 1);
+    TechTreeUpgradeAddLevel(1, "AP_LiberatorSiegeProtocol", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ImprovedConcealment", 1);
+    TechTreeUpgradeAddLevel(1, "AP_DrillClaws", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CycloneLockOnDamageUpgrade", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MagFieldLaunchers", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MicroFiltering", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AutoHarvester", 1);
+    TechTreeUpgradeAddLevel(1, "AP_TechReactor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_OrbitalStrike", 1);
+    TechTreeUpgradeAddLevel(1, "AP_GhostAlternate", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AdvancedMedicTraining", 1);
+    TechTreeUpgradeAddLevel(1, "AP_DistortionSensors", 1);
+    TechTreeUpgradeAddLevel(1, "AP_NeoSteelFrame", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ProjectileAccelerators", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ShrikeTurret", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FortifiedBunkerCarapace", 1);
+    TechTreeUpgradeAddLevel(1, "AP_NeoSteelAndShrikeTurretIconUpgrade", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HailstormMissilePods", 1);
+    TechTreeUpgradeAddLevel(2, "AP_HailstormMissilePods", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ReinforcedSuperstructure", 1);
+    TechTreeUpgradeAddLevel(1, "AP_OrbitalRelay", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CommandCenterReactor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_DualFusionWelders", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AdvancedConstruction", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FireSuppressionSystems", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SupplyDepotDrop", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CellularReactors", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RegenerativeBioSteel", 1);
+    TechTreeUpgradeAddLevel(1, "AP_UltraCapacitors", 1);
+    TechTreeUpgradeAddLevel(1, "AP_VanadiumPlating", 1);
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_GiveUnitUpgrades_Init () {
+    gt_GiveUnitUpgrades = TriggerCreate("gt_GiveUnitUpgrades_Func");
+    TriggerAddEventMapInit(gt_GiveUnitUpgrades);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: __init
+//--------------------------------------------------------------------------------------------------
+bool gt___init_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    TriggerExecute(lib15EF4C78_gt_ArchipelagoPlayerHandlersConstructor, true, false);
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt___init_Init () {
+    gt___init = TriggerCreate("gt___init_Func");
+    TriggerAddEventMapInit(gt___init);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: StimMarine
+//--------------------------------------------------------------------------------------------------
+bool gt_StimMarine_Func (bool testConds, bool runActions) {
+    // Variable Declarations
+    unit lv_theMarine;
+
+    // Automatic Variable Declarations
+    // Variable Initialization
+
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    lv_theMarine = UnitFromId(1360285926);
+    UnitIssueOrder(lv_theMarine, Order(AbilityCommand("AP_Stimpack", 0)), c_orderQueueReplace);
+    TechTreeAbilityAllow(1, AbilityCommand("AP_EMP", 0), false);
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_StimMarine_Init () {
+    gt_StimMarine = TriggerCreate("gt_StimMarine_Func");
+    TriggerAddEventTimeElapsed(gt_StimMarine, 5.0, c_timeGame);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Initialization
+//--------------------------------------------------------------------------------------------------
+void InitTriggers () {
+    gt_GiveUnitUpgrades_Init();
+    gt___init_Init();
+    gt_StimMarine_Init();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Map Initialization
+//--------------------------------------------------------------------------------------------------
+void InitMap () {
+    InitLibs();
+    InitTriggers();
+}
