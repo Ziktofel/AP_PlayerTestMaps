@@ -39,6 +39,7 @@
 <Unit id="Drone"/>
 <Unit id="Zergling"/>
 <Unit id="Overlord"/>
+<Unit id="Roach"/>
 <Unit id="Infestor"/>
 <Unit id="Overseer"/>
 <Unit id="PlanetaryFortress"/>
@@ -50,11 +51,12 @@
 <Unit id="MineralField450" Variations="4,6"/>
 <Unit id="MineralFieldOpaque" Variations="2,7"/>
 <Unit id="SpacePlatformGeyser"/>
+<Unit id="AP_Thor"/>
+<Unit id="AP_ThorAP"/>
 <Unit id="AP_SiegeTankSieged"/>
 <Unit id="AP_SiegeTank"/>
 <Unit id="AP_VikingAssault"/>
 <Unit id="AP_VikingFighter"/>
-<Unit id="AP_Thor"/>
 <Unit id="AP_Liberator"/>
 <Unit id="AP_WidowMine"/>
 <Unit id="AP_SiegeBreakerSieged"/>
@@ -80,6 +82,7 @@
 <Unit id="AP_Factory"/>
 <Unit id="AP_SCV"/>
 <Unit id="AP_CommandCenter"/>
+<Unit id="AP_Roach"/>
 <Unit id="AP_Hellion"/>
 <Unit id="AP_Goliath"/>
 <Unit id="AP_Diamondback"/>

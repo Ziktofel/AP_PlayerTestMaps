@@ -2,6 +2,7 @@
 <Preload>
 <Actor id="SYSTEM_ActorConfig"/>
 <Terrain id="Char"/>
+<Unit id="Colossus"/>
 <Unit id="CommandCenter"/>
 <Unit id="SupplyDepot"/>
 <Unit id="Refinery"/>
@@ -35,14 +36,25 @@
 <Unit id="Banshee"/>
 <Unit id="Raven"/>
 <Unit id="Battlecruiser"/>
+<Unit id="Pylon"/>
+<Unit id="Stalker"/>
 <Unit id="HighTemplar"/>
+<Unit id="DarkTemplar" Variations="0,1"/>
+<Unit id="Phoenix"/>
+<Unit id="Carrier"/>
+<Unit id="VoidRay"/>
+<Unit id="Observer"/>
+<Unit id="Immortal"/>
 <Unit id="Drone"/>
 <Unit id="Zergling"/>
 <Unit id="Overlord"/>
+<Unit id="Ultralisk"/>
+<Unit id="Roach"/>
 <Unit id="Infestor"/>
 <Unit id="Overseer"/>
 <Unit id="PlanetaryFortress"/>
 <Unit id="OrbitalCommand"/>
+<Unit id="Archon"/>
 <Unit id="RichMineralField" Variations="0,9"/>
 <Unit id="RichMineralField750" Variations="0,5"/>
 <Unit id="RichVespeneGeyser"/>
@@ -50,11 +62,12 @@
 <Unit id="MineralField450" Variations="4,6"/>
 <Unit id="MineralFieldOpaque" Variations="2,7"/>
 <Unit id="SpacePlatformGeyser"/>
+<Unit id="AP_Thor"/>
+<Unit id="AP_ThorAP"/>
 <Unit id="AP_SiegeTankSieged"/>
 <Unit id="AP_SiegeTank"/>
 <Unit id="AP_VikingAssault"/>
 <Unit id="AP_VikingFighter"/>
-<Unit id="AP_Thor"/>
 <Unit id="AP_Liberator"/>
 <Unit id="AP_WidowMine"/>
 <Unit id="AP_SiegeBreakerSieged"/>
@@ -77,9 +90,14 @@
 <Unit id="AP_Spectre"/>
 <Unit id="AP_Barracks"/>
 <Unit id="AP_PerditionTurret"/>
+<Unit id="AP_Archon"/>
 <Unit id="AP_Factory"/>
 <Unit id="AP_SCV"/>
 <Unit id="AP_CommandCenter"/>
+<Unit id="AP_RoachBurrowed"/>
+<Unit id="AP_Roach"/>
+<Unit id="AP_UltraliskBurrowed"/>
+<Unit id="AP_Ultralisk"/>
 <Unit id="AP_Hellion"/>
 <Unit id="AP_Goliath"/>
 <Unit id="AP_Diamondback"/>
@@ -88,6 +106,7 @@
 <Unit id="AP_Cyclone"/>
 <Unit id="AP_Starport"/>
 <Unit id="AP_OrbitalCommand"/>
+<Unit id="AP_HellionTank"/>
 <Unit id="AP_Medivac"/>
 <Unit id="AP_Banshee"/>
 <Unit id="AP_Raven"/>
@@ -114,5 +133,33 @@
 <Unit id="AP_Armory"/>
 <Unit id="AP_FusionCore"/>
 <Unit id="AP_HiveMindEmulator"/>
+<Unit id="AP_Immortal"/>
 <Unit id="AP_RefineryRich"/>
+<Unit id="AP_NovaHero"/>
+<Unit id="AP_Carrier"/>
+<Unit id="AP_CarrierAiur"/>
+<Unit id="AP_PhoenixAiur"/>
+<Unit id="AP_PhoenixPurifier"/>
+<Unit id="AP_ImmortalBarrier"/>
+<Unit id="AP_ImmortalAiur"/>
+<Unit id="AP_ImmortalShakuras"/>
+<Unit id="AP_ImmortalTaldarim"/>
+<Unit id="AP_Colossus"/>
+<Unit id="AP_ColossusPurifier"/>
+<Unit id="AP_ColossusTaldarim"/>
+<Unit id="AP_Observer"/>
+<Unit id="AP_DarkTemplar" Variations="1"/>
+<Unit id="AP_DarkTemplarAiur"/>
+<Unit id="AP_DarkTemplarShakuras"/>
+<Unit id="AP_DarkTemplarTaldarim"/>
+<Unit id="AP_HighArchonTemplar"/>
+<Unit id="AP_HighTemplar"/>
+<Unit id="AP_HighTemplarShakuras"/>
+<Unit id="AP_HighTemplarTaldarim"/>
+<Unit id="AP_Pylon"/>
+<Unit id="AP_Stalker"/>
+<Unit id="AP_StalkerPurifier"/>
+<Unit id="AP_StalkerShakuras"/>
+<Unit id="AP_VoidRayShakuras"/>
+<Unit id="AP_VoidRayTaldarim"/>
 </Preload>

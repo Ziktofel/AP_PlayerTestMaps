@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <terrain version="115">
-    <heightMap tileSet="BraxisAlpha" uvtiling="9.000000 9.000000 0.000000 0.000000 " dim="97 97 " offset="0.000000 0.000000 0.000000 " scale="1.000000e+00 1.000000e+00 1.000000e+00 ">
-        <vertData quantizeBias="1.000076e+00" quantizeScale="1.525902e-04" standardHeight="8.000000e+00" name="t3HeightMap"/>
+    <heightMap tileSet="Char" uvtiling="9.000000 9.000000 0.000000 0.000000 " dim="97 97 " offset="0.000000 0.000000 0.000000 " scale="1.000000e+00 1.000000e+00 1.000000e+00 ">
+        <cliffSetList num="1">
+            <cliffSet i="0" name="CharCliff0"/>
+        </cliffSetList>
+        <vertData quantizeBias="1.000152e+00" quantizeScale="1.525902e-04" standardHeight="8.000000e+00" name="t3HeightMap"/>
         <masks name="t3TextureMasks"/>
         <textureSetList num="8">
             <textureSet i="0" name="BraxisAlpha"/>
@@ -225,6 +228,39 @@
             <blockTextureSet i="142" tileSet="0"/>
             <blockTextureSet i="143" tileSet="0"/>
         </blockTextureSetList>
-        <cliffCellList num="2304" numOccupied="0"/>
+        <cliffCellList num="2304" numOccupied="32">
+            <cc i="1564" f="1" cid="0" cvar="3"/>
+            <cc i="1565" f="1" cid="0" cvar="1"/>
+            <cc i="1566" f="1" cid="0" cvar="0"/>
+            <cc i="1611" f="1" cid="0" cvar="2"/>
+            <cc i="1612" f="1" cid="0" cvar="3"/>
+            <cc i="1614" f="1" cid="0" cvar="2"/>
+            <cc i="1615" f="1" cid="0" cvar="1"/>
+            <cc i="1616" f="1" cid="0" cvar="2"/>
+            <cc i="1617" f="1" cid="0" cvar="2"/>
+            <cc i="1659" f="1" cid="0" cvar="2"/>
+            <cc i="1665" f="1" cid="0" cvar="1"/>
+            <cc i="1666" f="1" cid="0" cvar="3"/>
+            <cc i="1707" f="1" cid="0" cvar="0"/>
+            <cc i="1713" f="1" cid="0" cvar="2"/>
+            <cc i="1714" f="1" cid="0" cvar="0"/>
+            <cc i="1755" f="1" cid="0" cvar="3"/>
+            <cc i="1761" f="1" cid="0" cvar="2"/>
+            <cc i="1803" f="1" cid="0" cvar="3"/>
+            <cc i="1809" f="1" cid="0" cvar="3"/>
+            <cc i="1851" f="1" cid="0" cvar="3"/>
+            <cc i="1856" f="1" cid="0" cvar="2"/>
+            <cc i="1857" f="1" cid="0" cvar="0"/>
+            <cc i="1899" f="1" cid="0" cvar="3"/>
+            <cc i="1904" f="1" cid="0" cvar="1"/>
+            <cc i="1947" f="1" cid="0" cvar="3"/>
+            <cc i="1948" f="1" cid="0" cvar="0"/>
+            <cc i="1952" f="1" cid="0" cvar="2"/>
+            <cc i="1996" f="1" cid="0" cvar="3"/>
+            <cc i="1997" f="1" cid="0" cvar="1"/>
+            <cc i="1998" f="1" cid="0" cvar="3"/>
+            <cc i="1999" f="1" cid="0" cvar="1"/>
+            <cc i="2000" f="1" cid="0" cvar="1"/>
+        </cliffCellList>
     </heightMap>
 </terrain>
