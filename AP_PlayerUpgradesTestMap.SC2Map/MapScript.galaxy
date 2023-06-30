@@ -188,6 +188,9 @@ bool gt_GiveUnitUpgrades_Func (bool testConds, bool runActions) {
     TechTreeUpgradeAddLevel(1, "AP_VoidPhoenixGravitonCampaignVersion", 1);
     TechTreeUpgradeAddLevel(1, "AP_VoidPhoenixDoubleGraviton", 1);
     TechTreeUpgradeAddLevel(1, "AP_SOAMatrixOverload", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAWarpTech", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOARadar", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AlarakStalkerPhasingArmor", 1);
     return true;
 }
 
