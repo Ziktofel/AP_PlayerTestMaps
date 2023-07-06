@@ -11,6 +11,9 @@
         <Action Type="FunctionCall" Id="7B5007EA"/>
         <Action Type="FunctionCall" Id="6C28644E"/>
         <Action Type="FunctionCall" Id="A6134CC5"/>
+        <Action Type="FunctionCall" Id="5EE3626F"/>
+        <Action Type="FunctionCall" Id="8653172A"/>
+        <Action Type="FunctionCall" Id="EECD6D50"/>
     </Element>
     <Element Type="FunctionCall" Id="50362724">
         <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000120"/>
@@ -102,6 +105,70 @@
         <Value>AP_YamatoCannon</Value>
         <ValueType Type="gamelink"/>
         <ValueGameType Type="Upgrade"/>
+    </Element>
+    <Element Type="FunctionCall" Id="5EE3626F">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000158"/>
+        <Parameter Type="Param" Id="FF36ED80"/>
+        <Parameter Type="Param" Id="9A762E66"/>
+        <Parameter Type="Param" Id="CD4B6F50"/>
+    </Element>
+    <Element Type="Param" Id="FF36ED80">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="00000255"/>
+        <Value>1</Value>
+        <ValueType Type="int"/>
+    </Element>
+    <Element Type="Param" Id="9A762E66">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="00000257"/>
+        <Value>1</Value>
+        <ValueType Type="int"/>
+    </Element>
+    <Element Type="Param" Id="CD4B6F50">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="00000256"/>
+        <Value>AP_VoidPhoenixGravitonCampaignVersion</Value>
+        <ValueType Type="gamelink"/>
+        <ValueGameType Type="Upgrade"/>
+    </Element>
+    <Element Type="FunctionCall" Id="8653172A">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000158"/>
+        <Parameter Type="Param" Id="7B1C0479"/>
+        <Parameter Type="Param" Id="A875B0A5"/>
+        <Parameter Type="Param" Id="78B3F9E6"/>
+    </Element>
+    <Element Type="Param" Id="7B1C0479">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="00000255"/>
+        <Value>1</Value>
+        <ValueType Type="int"/>
+    </Element>
+    <Element Type="Param" Id="A875B0A5">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="00000257"/>
+        <Value>1</Value>
+        <ValueType Type="int"/>
+    </Element>
+    <Element Type="Param" Id="78B3F9E6">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="00000256"/>
+        <Value>AP_VoidPhoenixDoubleGraviton</Value>
+        <ValueType Type="gamelink"/>
+        <ValueGameType Type="Upgrade"/>
+    </Element>
+    <Element Type="FunctionCall" Id="EECD6D50">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="0F7C3248"/>
+        <Parameter Type="Param" Id="2EC1BEAA"/>
+        <Parameter Type="Param" Id="6F936F25"/>
+        <Parameter Type="Param" Id="41E5F22A"/>
+    </Element>
+    <Element Type="Param" Id="2EC1BEAA">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="BFF56EB0"/>
+        <Value>1</Value>
+        <ValueType Type="int"/>
+    </Element>
+    <Element Type="Param" Id="6F936F25">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="09B7BAEA"/>
+        <Preset Type="PresetValue" Library="Ntve" Id="00000107"/>
+    </Element>
+    <Element Type="Param" Id="41E5F22A">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="9B01128C"/>
+        <Value>AP_EMP</Value>
+        <ValueType Type="abilcmd"/>
     </Element>
     <Element Type="Trigger" Id="2F3A78DA">
         <Event Type="FunctionCall" Id="84892A8B"/>

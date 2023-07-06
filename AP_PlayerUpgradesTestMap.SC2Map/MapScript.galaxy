@@ -191,6 +191,39 @@ bool gt_GiveUnitUpgrades_Func (bool testConds, bool runActions) {
     TechTreeUpgradeAddLevel(1, "AP_SOAWarpTech", 1);
     TechTreeUpgradeAddLevel(1, "AP_SOARadar", 1);
     TechTreeUpgradeAddLevel(1, "AP_AlarakStalkerPhasingArmor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_GraviticDrive", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AdeptPiercingAttack", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AdeptShieldUpgrade", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AdeptKillBounce", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AlarakSupplicantMaxShields", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AlarakSupplicantShieldRegen", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AlarakSupplicantShieldArmor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSLurker", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSImpaler", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSLurkerImpaler", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSMutaliskViper", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSMutaliskBroodlord", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSMutaliskBroodlordViper", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BansheeSpeed", 1);
+    TechTreeUpgradeAddLevel(1, "AP_LaserTargetingSystemBanshee", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SiegeTankSiegeModeProgressiveRangeIncease", 1);
+    TechTreeUpgradeAddLevel(1, "AP_LaserTargetingSystemSiegeTank", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RaynorImprovedSiegeMode", 1);
+    TechTreeUpgradeAddLevel(1, "AP_VikingMagWeapon", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MedivacSpeedBoost", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HHWidowMineBurrowedRange", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HHWidowMineDeathBlossom", 1);
+    TechTreeUpgradeAddLevel(1, "AP_LaserTargetingSystemLiberator", 1);
+    TechTreeUpgradeAddLevel(1, "AP_GhostSCBWLockdownResearch", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MedicSCBWRestorationResearch", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MedicSCBWOpticFlareResearch", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HellbatStimpack", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SuperStimpackHellbat", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ValkyrieEnhancedClusterLaunchers", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ValkyrieShapedHull", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ValkyrieBurstLasers", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ValkyrieSpeedBoost", 1);
+    TechTreeUpgradeAddLevel(1, "AP_WraithAdvancedLaserTechnology", 1);
     return true;
 }
 
@@ -237,7 +270,6 @@ bool gt_StimMarine_Func (bool testConds, bool runActions) {
 
     lv_theMarine = UnitFromId(1360285926);
     UnitIssueOrder(lv_theMarine, Order(AbilityCommand("AP_Stimpack", 0)), c_orderQueueReplace);
-    TechTreeAbilityAllow(1, AbilityCommand("AP_EMP", 0), false);
     return true;
 }
 

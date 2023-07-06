@@ -37,6 +37,9 @@ bool gt_GrantUnitUpgrades_Func (bool testConds, bool runActions) {
     libNtve_gf_SetUpgradeLevelForPlayer(1, "AP_WraithCloak", 1);
     libNtve_gf_SetUpgradeLevelForPlayer(1, "AP_BansheeCloak", 1);
     libNtve_gf_SetUpgradeLevelForPlayer(1, "AP_YamatoCannon", 1);
+    TechTreeUpgradeAddLevel(1, "AP_VoidPhoenixGravitonCampaignVersion", 1);
+    TechTreeUpgradeAddLevel(1, "AP_VoidPhoenixDoubleGraviton", 1);
+    TechTreeAbilityAllow(1, AbilityCommand("AP_EMP", 0), false);
     return true;
 }
 
