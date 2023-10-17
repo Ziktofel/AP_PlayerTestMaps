@@ -20,6 +20,8 @@ void InitLibs () {
 // Trigger Variables
 //--------------------------------------------------------------------------------------------------
 trigger gt_GiveUnitUpgrades;
+trigger gt_HeroUI;
+trigger gt_EventTest;
 trigger gt___init;
 trigger gt_StimMarine;
 trigger gt_SetMaxSupply;
@@ -56,6 +58,7 @@ bool gt_GiveUnitUpgrades_Func (bool testConds, bool runActions) {
     TechTreeUpgradeAddLevel(1, "AP_AresClassWeaponsSystem", 1);
     TechTreeUpgradeAddLevel(1, "AP_MultilockTargetingSystems", 1);
     TechTreeUpgradeAddLevel(1, "AP_BurstCapacitors", 1);
+    UnitBehaviorAdd(UnitFromId(867838141), "AP_BurstCapacitorsDamageBuff", UnitFromId(867838141), 1);
     TechTreeUpgradeAddLevel(1, "AP_Hyperfluxor", 1);
     TechTreeUpgradeAddLevel(1, "AP_ShapedHull", 1);
     TechTreeUpgradeAddLevel(1, "AP_TriLithiumPowerCells", 1);
@@ -224,6 +227,155 @@ bool gt_GiveUnitUpgrades_Func (bool testConds, bool runActions) {
     TechTreeUpgradeAddLevel(1, "AP_ValkyrieBurstLasers", 1);
     TechTreeUpgradeAddLevel(1, "AP_ValkyrieSpeedBoost", 1);
     TechTreeUpgradeAddLevel(1, "AP_WraithAdvancedLaserTechnology", 1);
+    TechTreeUpgradeAddLevel(1, "AP_VultureIonThrusters", 1);
+    TechTreeUpgradeAddLevel(1, "AP_VultureAutoLaunchers", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SpiderMineDamage", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ScienceVesselSCBWEMPShockwaveResearch", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ScienceVesselDefensiveMatrix", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CycloneRapidFireLaunchers", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CycloneLockOnRangeUpgrade", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FastBuildMarine", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FastBuildHellion", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FastBuildBattlecruiser", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FastBuildGoliath", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FastBuildLiberator", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalizedTechModuleRaven", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalizedTechModuleBanshee", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalizedTechModuleBattlecruiser", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalizedTechModuleMarauder", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalizedTechModuleSiegeTank", 1);
+    TechTreeUpgradeAddLevel(1, "AP_OptimizedLogisticsMedic", 1);
+    TechTreeUpgradeAddLevel(1, "AP_OptimizedLogisticsPredator", 1);
+    TechTreeUpgradeAddLevel(1, "AP_OptimizedLogisticsDiamondback", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SuperiorWarpGates", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAAutoAssimilator", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAQuatro", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ProtossAirArmorsQuatro", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ProtossAirWeaponsQuatro", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ProtossGroundArmorsQuatro", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ProtossGroundWeaponsQuatro", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ProtossShieldsQuatro", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ReaperSpeed", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5ImprovedOverlords", 1);
+    TechTreeUpgradeAddLevel(1, "AP_overlordtransport", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSHaveSwarmling", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSHaveRaptor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSHaveRaptorSwarmling", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5ZerglingRespawn", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5CreepBonuses", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5GasBonuses", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5AutoExtractor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5TwoDrones", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSCampaignLarvaCount", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5Apocalypse", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5CrushingGrip", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5DropPods", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5Leviathan", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5Mend", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5MindBolt", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5PrimalSlash", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5PsiStrike", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5SpawnBanelings", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5WildMutation", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSHunter", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSSplitter", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HotSHunterSplitter", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5ChainLightning", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5Cooldowns", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5Fury", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5HeroicFortitude", 1);
+    TechTreeUpgradeAddLevel(1, "AP_K5InfestBroodlings", 1);
+    TechTreeUpgradeAddLevel(1, "AP_KerriganPostZerus", 1);
+    lib15EF4C78_gf_ZS_ApplyKerriganLevelBonus(1, 25000);
+    TechTreeUpgradeAddLevel(1, "AP_BattlecruiserAdvancedDefensiveMatrix", 1);
+    TechTreeUpgradeAddLevel(1, "AP_GatewayFactionAiur", 1);
+    TechTreeUpgradeAddLevel(1, "AP_GatewayFactionNerazim", 1);
+    TechTreeUpgradeAddLevel(1, "AP_GatewayFactionPurifier", 1);
+    TechTreeUpgradeAddLevel(1, "AP_GatewayFactionTaldarim", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RoboFactionAiur", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RoboFactionNerazim", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RoboFactionPurifier", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RoboFactionTaldarim", 1);
+    TechTreeUpgradeAddLevel(1, "AP_StargateFactionAiur", 1);
+    TechTreeUpgradeAddLevel(1, "AP_StargateFactionNerazim", 1);
+    TechTreeUpgradeAddLevel(1, "AP_StargateFactionPurifier", 1);
+    TechTreeUpgradeAddLevel(1, "AP_StargateFactionTaldarim", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOASuperChrono", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAProxyPylon", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAWarpInReinforcements", 1);
+    lib15EF4C78_gf_AP_Player_CreateSoAUnit(1);
+    lib15EF4C78_gf_SetSpearofAdunEnergy(1, 100.0, lib15EF4C78_ge_SpearofAdunEnergyType_Percent);
+    TechTreeUpgradeAddLevel(1, "AP_SOAOrbitalStrike", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAGravitonBomb", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAThermalLance", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOARecall", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SoASuperShield", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAFenix", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAPurifierBeam", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAPurifierBeam", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOATimeFreeze", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAStrafeAttack", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAHeroicShield", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SOAPylonOvercharge", 1);
+    libNtve_gf_CreateUnitsWithDefaultFacing(1, "AP_SoAAutonomousCaster", 0, 1, Point(0.0, 0.0));
+    TechTreeUpgradeAddLevel(1, "AP_SOAOverWatch", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MedivacShield", 1);
+    TechTreeUpgradeAddLevel(1, "AP_MedivacPermanentCloak", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SiegeTankShapedHull", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ResourceEfficiencySiegeTank", 1);
+    TechTreeUpgradeAddLevel(1, "AP_GoliathShapedHull", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ResourceEfficiencyGoliath", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalizedTechModuleGoliath", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ResourceEfficiencyCyclone", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalizedTechModuleCyclone", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ReplenishSpiderMineFree", 1);
+    UnitIssueOrder(UnitFromId(1299585684), OrderSetAutoCast(AbilityCommand("AP_MakeVultureSpiderMines", 0), true), c_orderQueueAddToFront);
+    TechTreeUpgradeAddLevel(1, "AP_ResourceEfficiencyGhost", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ResourceEfficiencySpectre", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FirebatInfernalPreIgniter", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FirebatLifeBoost", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RaynorFirebatRange", 1);
+    TechTreeUpgradeAddLevel(1, "AP_AdaptiveMedPacks", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RaynorMedicRange", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HellbatHellArmor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_PermanentCloakWraith", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HHWraithFury", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ResourceEfficiencyWraith", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalizedTechModuleWraith", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ResourceEfficiencyRaven", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BansheeShapedHull", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BansheeAdvancedOptics", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BansheeAirstrike", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HHVikingPiercingAttacks", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HHVikingRockets", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ScienceVesselFreeRepair", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ScienceVesselResearchAdditionalNano", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HHReaperFlight", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HostileEnvironmentAdaptation", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ResourceEfficiencyLiberator", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CloakingTechnologyPredator", 1);
+    TechTreeUpgradeAddLevel(1, "AP_CellularReactorsPredator", 1);
+    TechTreeUpgradeAddLevel(1, "AP_PredatorCharge", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ThorNuke", 1);
+    TechTreeUpgradeAddLevel(1, "AP_InternalFusionModuleHercules", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HerculesHyperjump", 1);
+    TechTreeUpgradeAddLevel(1, "AP_ThorImmortalityFree", 1);
+    TechTreeUpgradeAddLevel(1, "AP_LaserTargetingSystemThor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BuildThorBySCV", 1);
+    TechTreeUpgradeAddLevel(1, "AP_PlanetaryFortressLiftOff", 1);
+    TechTreeUpgradeAddLevel(1, "AP_PlanetaryFortressWeapon", 1);
+    TechTreeUpgradeAddLevel(1, "AP_PlanetaryFortressAirAttack", 1);
+    TechTreeUpgradeAddLevel(1, "AP_PlanetaryFortressAirAttackFlying", 1);
+    TechTreeUpgradeAddLevel(1, "AP_OrbitalRelayPlanetary", 1);
+    TechTreeUpgradeAddLevel(1, "AP_DurableMaterials", 1);
+    TechTreeUpgradeAddLevel(1, "AP_TerranBuildingArmor", 1);
+    TechTreeUpgradeAddLevel(1, "AP_HiSecAutoTracking", 1);
+    TechTreeUpgradeAddLevel(1, "AP_FireSuppressionSystemsUpgraded", 1);
+    TechTreeUpgradeAddLevel(1, "AP_SwannCommanderVehicleWeaponRange", 1);
+    TechTreeUpgradeAddLevel(1, "AP_VikingRangeDoubleUpgrade", 1);
+    TechTreeUpgradeAddLevel(1, "AP_BrynhildRangeDoubleUpgrade", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RegenerativeBioSteelLevel3", 1);
+    TechTreeUpgradeAddLevel(1, "AP_RogueForces", 1);
     return true;
 }
 
@@ -231,6 +383,47 @@ bool gt_GiveUnitUpgrades_Func (bool testConds, bool runActions) {
 void gt_GiveUnitUpgrades_Init () {
     gt_GiveUnitUpgrades = TriggerCreate("gt_GiveUnitUpgrades_Func");
     TriggerAddEventMapInit(gt_GiveUnitUpgrades);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: HeroUI
+//--------------------------------------------------------------------------------------------------
+bool gt_HeroUI_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    lib15EF4C78_gf_SetHeroPanelUnit(1, UnitFromId(718176417), 1);
+    lib15EF4C78_gf_SetHeroPanelUnit(2, UnitFromId(883636517), 1);
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_HeroUI_Init () {
+    gt_HeroUI = TriggerCreate("gt_HeroUI_Func");
+    TriggerAddEventMapInit(gt_HeroUI);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: EventTest
+//--------------------------------------------------------------------------------------------------
+bool gt_EventTest_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    UIDisplayMessage(PlayerGroupAll(), c_messageAreaSubtitle, StringExternal("Param/Value/24F4C92F"));
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_EventTest_Init () {
+    gt_EventTest = TriggerCreate("gt_EventTest_Func");
+    TriggerAddEventGeneric(gt_EventTest, lib15EF4C78_gv_aP_Player_ON_PRIMARY_TOWN_HALL_DEATH_EVENT);
 }
 
 //--------------------------------------------------------------------------------------------------
@@ -270,13 +463,14 @@ bool gt_StimMarine_Func (bool testConds, bool runActions) {
 
     lv_theMarine = UnitFromId(1360285926);
     UnitIssueOrder(lv_theMarine, Order(AbilityCommand("AP_Stimpack", 0)), c_orderQueueReplace);
+    TechTreeUpgradeAddLevel(1, "AP_OptimizedLogisticsFirebat", 1);
     return true;
 }
 
 //--------------------------------------------------------------------------------------------------
 void gt_StimMarine_Init () {
     gt_StimMarine = TriggerCreate("gt_StimMarine_Func");
-    TriggerAddEventTimeElapsed(gt_StimMarine, 5.0, c_timeGame);
+    TriggerAddEventTimeElapsed(gt_StimMarine, 20.0, c_timeGame);
 }
 
 //--------------------------------------------------------------------------------------------------
@@ -304,6 +498,8 @@ void gt_SetMaxSupply_Init () {
 //--------------------------------------------------------------------------------------------------
 void InitTriggers () {
     gt_GiveUnitUpgrades_Init();
+    gt_HeroUI_Init();
+    gt_EventTest_Init();
     gt___init_Init();
     gt_StimMarine_Init();
     gt_SetMaxSupply_Init();
