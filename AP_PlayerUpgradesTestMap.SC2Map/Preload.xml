@@ -83,6 +83,7 @@
 <Unit id="Ultralisk"/>
 <Unit id="Roach"/>
 <Unit id="Infestor"/>
+<Unit id="Corruptor"/>
 <Unit id="Queen"/>
 <Unit id="Overseer"/>
 <Unit id="PlanetaryFortress"/>
@@ -151,6 +152,7 @@
 <Unit id="AP_UltraliskBurrowed"/>
 <Unit id="AP_Ultralisk"/>
 <Unit id="AP_Hydralisk"/>
+<Unit id="AP_DarkArchon"/>
 <Unit id="AP_Zergling"/>
 <Unit id="AP_Extractor"/>
 <Unit id="AP_CreepTumorBurrowed"/>
@@ -211,7 +213,6 @@
 <Unit id="AP_DarkTemplarAiur"/>
 <Unit id="AP_DarkTemplarTaldarim"/>
 <Unit id="AP_Dragoon"/>
-<Unit id="AP_DarkArchon"/>
 <Unit id="AP_SentryPurifier"/>
 <Unit id="AP_Monitor"/>
 <Unit id="AP_Gateway"/>
@@ -232,6 +233,8 @@
 <Unit id="AP_Drone"/>
 <Unit id="AP_Overlord"/>
 <Unit id="AP_Mutalisk"/>
+<Unit id="AP_Corruptor"/>
+<Unit id="AP_Scourge"/>
 <Unit id="AP_K5Kerrigan"/>
 <Unit id="AP_Medivac"/>
 <Unit id="AP_Banshee"/>

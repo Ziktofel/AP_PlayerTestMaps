@@ -5,54 +5,55 @@
     <ObjectUnit Id="1577336956" Variation="2" Position="42,15.5,0" Scale="1,1,1" UnitType="MineralFieldOpaque"/>
     <ObjectUnit Id="1715211743" Position="38.2885,49.8974,0" Rotation="3.3996" Scale="1,1,1" UnitType="AP_HighTemplar" Player="1"/>
     <ObjectUnit Id="1299585684" Position="48.0073,37.8098,0" Rotation="5.5937" Scale="1,1,1" UnitType="AP_Vulture" Player="1"/>
-    <ObjectUnit Id="2089703910" Position="38.041,59.182,0" Rotation="5.428" Scale="1,1,1" UnitType="AP_Adept" Player="1"/>
     <ObjectUnit Id="819249439" Position="46.0805,59.7941,0" Rotation="2.8994" Scale="1,1,1" UnitType="AP_Raven" Player="1"/>
+    <ObjectUnit Id="2089703910" Position="38.041,59.182,0" Rotation="5.428" Scale="1,1,1" UnitType="AP_Adept" Player="1"/>
     <ObjectUnit Id="699964090" Position="45.3937,42.4487,0" Rotation="4.9401" Scale="1,1,1" UnitType="AP_MercReaper" Player="1"/>
     <ObjectUnit Id="284064745" Position="25.5,49.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Bunker" Player="1"/>
-    <ObjectUnit Id="692745252" Position="26.9973,25.5251,0" Rotation="2.648" Scale="1,1,1" UnitType="SCV" Player="1"/>
-    <ObjectUnit Id="1667889519" Position="45.6247,40.3754,0" Rotation="4.76" Scale="1,1,1" UnitType="AP_HellionTank" Player="1"/>
     <ObjectUnit Id="1920560582" Position="65.8647,51.1855,0" Rotation="1.2224" Scale="1,1,1" UnitType="Probe" Player="1"/>
+    <ObjectUnit Id="1667889519" Position="45.6247,40.3754,0" Rotation="4.76" Scale="1,1,1" UnitType="AP_HellionTank" Player="1"/>
+    <ObjectUnit Id="692745252" Position="26.9973,25.5251,0" Rotation="2.648" Scale="1,1,1" UnitType="SCV" Player="1"/>
     <ObjectUnit Id="889899563" Position="46.3618,56.3603,0" Rotation="5.1901" Scale="1,1,1" UnitType="AP_Thor" Player="1"/>
     <ObjectUnit Id="1990557370" Position="43.524,11.0605,0" Rotation="0.9724" Scale="1,1,1" UnitType="AP_Battlecruiser" Player="1"/>
     <ObjectUnit Id="282385490" Position="45.9296,72.5407,0" Rotation="4.277" Scale="1,1,1" UnitType="AP_Liberator" Player="1"/>
-    <ObjectUnit Id="1894118555" Position="11,11,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="1168436544" Position="39.2116,53.0986,0" Rotation="5.2744" Scale="1,1,1" UnitType="AP_DarkArchon" Player="1"/>
+    <ObjectUnit Id="1894118555" Position="11,11,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="2051778048" Position="56.4355,18.2714,0" Rotation="2.5727" Scale="1,1,1" UnitType="Zergling" Player="1"/>
-    <ObjectUnit Id="1364337614" Position="44.8234,46.625,0" Rotation="5.4487" Scale="1,1,1" UnitType="AP_DevilDog" Player="1"/>
     <ObjectUnit Id="2057497991" Variation="3" Position="34,15.5,0" Scale="1,1,1" UnitType="MineralField"/>
+    <ObjectUnit Id="1364337614" Position="44.8234,46.625,0" Rotation="5.4487" Scale="1,1,1" UnitType="AP_DevilDog" Player="1"/>
     <ObjectUnit Id="1755664783" Position="11.5,39.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_Starport" Player="1"/>
     <ObjectUnit Id="904702529" Position="74.5,68.5,0" Scale="1,1,1" UnitType="AP_Lair" Player="1"/>
     <ObjectUnit Id="1954716397" Position="12.1374,25.4343,0" Rotation="3.0942" Scale="1,1,1" UnitType="AP_SCV" Player="1"/>
-    <ObjectUnit Id="1384329411" Position="33.2636,64.426,0" Rotation="3.428" Scale="1,1,1" UnitType="AP_PrimalRoach" Player="1"/>
     <ObjectUnit Id="226716323" Position="70.5,31.5,0" Rotation="5.8117" Scale="1,1,1" UnitType="HydraliskDen" Player="1"/>
+    <ObjectUnit Id="1384329411" Position="33.2636,64.426,0" Rotation="3.428" Scale="1,1,1" UnitType="AP_PrimalRoach" Player="1"/>
     <ObjectUnit Id="279733697" Position="83.41,40.538,0" Rotation="4.3903" Scale="1,1,1" UnitType="HighTemplar" Player="2"/>
     <ObjectUnit Id="828178320" Position="15.443,64.5402,0" Rotation="4.1115" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1588499097" Position="46.455,53.356,0" Rotation="4.572" Scale="1,1,1" UnitType="AP_Spectre" Player="1"/>
+    <ObjectUnit Id="1814505316" Position="79.0412,44.1601,0" Rotation="1.4111" Scale="1,1,1" UnitType="SCV" Player="2"/>
     <ObjectUnit Id="308478625" Position="22.5,58.5,0" Scale="1,1,1" UnitType="Armory" Player="1"/>
-    <ObjectUnit Id="1210725271" Position="15.4743,13.126,0" Rotation="2.1171" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1305901700" Position="31.8488,49.5217,0" Rotation="0.94" Scale="1,1,1" UnitType="AP_HighArchonTemplar" Player="1"/>
+    <ObjectUnit Id="1210725271" Position="15.4743,13.126,0" Rotation="2.1171" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="92736428" Position="23.5,69.5,0" Rotation="6.0834" Scale="1,1,1" UnitType="PlanetaryFortress" Player="1"/>
     <ObjectUnit Id="1634259077" Position="38.9648,49.406,0" Rotation="4.0117" Scale="1,1,1" UnitType="AP_TempestPurifier" Player="1"/>
-    <ObjectUnit Id="1340832657" Variation="2" Position="70,47.5,0" Scale="1,1,1" UnitType="MineralField"/>
     <ObjectUnit Id="430227114" Position="16.5,14.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_AutomatedRefinery" Player="1"/>
-    <ObjectUnit Id="109725901" Position="26,63.5,0" Scale="1,1,1" UnitType="RichMineralField750"/>
-    <ObjectUnit Id="1962520525" Position="24.9301,25.6511,0" Rotation="5.7934" Scale="1,1,1" UnitType="SCV" Player="1"/>
+    <ObjectUnit Id="1340832657" Variation="2" Position="70,47.5,0" Scale="1,1,1" UnitType="MineralField"/>
     <ObjectUnit Id="433060636" Position="40.5,21.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="OrbitalCommand" Player="1"/>
+    <ObjectUnit Id="1962520525" Position="24.9301,25.6511,0" Rotation="5.7934" Scale="1,1,1" UnitType="SCV" Player="1"/>
+    <ObjectUnit Id="109725901" Position="26,63.5,0" Scale="1,1,1" UnitType="RichMineralField750"/>
     <ObjectUnit Id="1846444842" Position="34.1123,48.342,0" Rotation="1.2873" Scale="1,1,1" UnitType="AP_DarkTemplarShakuras" Player="1"/>
-    <ObjectUnit Id="751034984" Position="11.3974,64.225,0" Rotation="2.3032" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="314100412" Position="38.0522,75.7651,0" Rotation="1.874" Scale="1,1,1" UnitType="Queen" Player="1"/>
+    <ObjectUnit Id="751034984" Position="11.3974,64.225,0" Rotation="2.3032" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="404738662" Position="62.6413,51.0598,0" Rotation="5.9846" Scale="1,1,1" UnitType="Probe" Player="1"/>
     <ObjectUnit Id="551022426" Position="57.402,50.7924,0" Rotation="2.1184" Scale="1,1,1" UnitType="AP_Probe" Player="1"/>
     <ObjectUnit Id="1764766923" Position="10.3432,10.3591,0" Rotation="0.1323" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1363613078" Position="33.5,28.5,0" Scale="1,1,1" UnitType="SpacePlatformGeyser"/>
     <ObjectUnit Id="59033334" Position="26,36,0" Rotation="5.4975" Scale="1,1,1" UnitType="BarracksTechLab" Player="1"/>
     <ObjectUnit Id="453478730" Position="47.1518,11.2497,0" Rotation="2.393" Scale="1,1,1" UnitType="AP_Battlecruiser" Player="1"/>
-    <ObjectUnit Id="67716842" Position="50.0297,21.5246,0" Rotation="2.7263" Scale="1,1,1" UnitType="AP_Medivac" Player="1"/>
     <ObjectUnit Id="184713311" Position="56.5,38.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_AutomatedAssimilator" Player="1"/>
-    <ObjectUnit Id="1000564739" Position="45.1047,44.48,0" Rotation="0.562" Scale="1,1,1" UnitType="AP_HammerSecurity" Player="1"/>
+    <ObjectUnit Id="67716842" Position="50.0297,21.5246,0" Rotation="2.7263" Scale="1,1,1" UnitType="AP_Medivac" Player="1"/>
     <ObjectUnit Id="32336391" Position="14,36,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_BarracksTechLab" Player="1"/>
-    <ObjectUnit Id="308522337" Position="67.5,34.5,0" Rotation="5.707" Scale="1,1,1" UnitType="AP_RoachWarren" Player="1"/>
+    <ObjectUnit Id="1000564739" Position="45.1047,44.48,0" Rotation="0.562" Scale="1,1,1" UnitType="AP_HammerSecurity" Player="1"/>
     <ObjectUnit Id="1464477809" Position="44.792,48.5822,0" Rotation="2.38" Scale="1,1,1" UnitType="AP_MercMedic" Player="1"/>
+    <ObjectUnit Id="308522337" Position="67.5,34.5,0" Rotation="5.707" Scale="1,1,1" UnitType="AP_RoachWarren" Player="1"/>
     <ObjectUnit Id="2096386067" Position="23.6845,25.3818,0" Rotation="2.4614" Scale="1,1,1" UnitType="SCV" Player="1"/>
     <ObjectUnit Id="1749502" Position="14.1748,74.5493,0" Rotation="3.8901" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1348232073" Variation="5" Position="36,15.5,0" Scale="1,1,1" UnitType="MineralField"/>
@@ -66,44 +67,46 @@
     <ObjectUnit Id="477288082" Position="35.9621,60.243,0" Rotation="3.495" Scale="1,1,1" UnitType="AP_Dragoon" Player="1"/>
     <ObjectUnit Id="382275188" Position="68,18,0" Rotation="5.9338" Scale="1,1,1" UnitType="AP_GreaterSpire" Player="1"/>
     <ObjectUnit Id="1032927856" Variation="6" Position="37,14.5,0" Scale="1,1,1" UnitType="MineralField450"/>
-    <ObjectUnit Id="1063162531" Position="12,62,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_MercCompound" Player="1"/>
     <ObjectUnit Id="815379504" Position="14.4868,25.51,0" Rotation="6.024" Scale="1,1,1" UnitType="AP_SCV" Player="1"/>
+    <ObjectUnit Id="1063162531" Position="12,62,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_MercCompound" Player="1"/>
     <ObjectUnit Id="1161996355" Position="53.5,38.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_AutomatedAssimilatorRich" Player="1"/>
     <ObjectUnit Id="1547036244" Position="14.573,55.4104,0" Rotation="4.764" Scale="1,1,1" UnitType="SCV" Player="2"/>
     <ObjectUnit Id="2014903915" Position="60,54,0" Scale="1,1,1" UnitType="AP_ShieldBattery" Player="1"/>
     <ObjectUnit Id="64525454" Variation="1" Position="39.2753,48.4638,0" Rotation="4.557" Scale="1,1,1" UnitType="AP_DarkTemplar" Player="1"/>
     <ObjectUnit Id="354276121" Position="12.9252,72.7526,0" Rotation="5.1794" Scale="1,1,1" UnitType="Overlord" Player="1"/>
+    <ObjectUnit Id="1956844277" Position="37.741,65.109,0" Rotation="4.2885" Scale="1,1,1" UnitType="AP_Corruptor" Player="1"/>
     <ObjectUnit Id="2116929083" Position="45.9941,29.7058,0" Rotation="0.925" Scale="1,1,1" UnitType="AP_SiegeBreaker" Player="1"/>
     <ObjectUnit Id="10798619" Position="10.4035,75.7111,0" Rotation="2.364" Scale="1,1,1" UnitType="Overlord" Player="1"/>
-    <ObjectUnit Id="1691074926" Position="13.1164,55.144,0" Rotation="3.0437" Scale="1,1,1" UnitType="Infestor" Player="2"/>
     <ObjectUnit Id="440440873" Position="13,9,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
+    <ObjectUnit Id="1691074926" Position="13.1164,55.144,0" Rotation="3.0437" Scale="1,1,1" UnitType="Infestor" Player="2"/>
     <ObjectUnit Id="67662042" Position="54.5715,16.9694,0" Rotation="3.4953" Scale="1,1,1" UnitType="VikingAssault" Player="1"/>
     <ObjectUnit Id="276573424" Variation="4" Position="39,14.5,0" Scale="1,1,1" UnitType="MineralField450"/>
     <ObjectUnit Id="1326912583" Position="62.5,43.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Forge" Player="1"/>
     <ObjectUnit Id="2105807396" Position="31.798,74.9235,0" Rotation="6.1672" Scale="1,1,1" UnitType="AP_QueenBurrowed" Player="1"/>
     <ObjectUnit Id="1537345362" Position="62,54,0" Scale="1,1,1" UnitType="ShieldBattery" Player="1"/>
-    <ObjectUnit Id="805000593" Position="39.9448,44.4011,0" Rotation="1.3493" Scale="1,1,1" UnitType="AP_CorsairMP" Player="1"/>
-    <ObjectUnit Id="513254473" Position="11.5,65.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_GhostAcademy" Player="1"/>
     <ObjectUnit Id="1365628908" Position="22.5,65.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="GhostAcademy" Player="1"/>
+    <ObjectUnit Id="513254473" Position="11.5,65.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_GhostAcademy" Player="1"/>
+    <ObjectUnit Id="805000593" Position="39.9448,44.4011,0" Rotation="1.3493" Scale="1,1,1" UnitType="AP_CorsairMP" Player="1"/>
     <ObjectUnit Id="942769652" Position="14,39,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_BarracksTechReactor" Player="1"/>
     <ObjectUnit Id="1923585818" Position="85,14,0" Rotation="2.054" Scale="1,1,1" UnitType="AP_HiveMindEmulator" Player="2"/>
     <ObjectUnit Id="2008396896" Position="15.6782,25.4343,0" Rotation="0.0117" Scale="1,1,1" UnitType="AP_SCV" Player="1"/>
+    <ObjectUnit Id="580686872" Position="40.5993,64.6914,0" Rotation="0.8164" Scale="1,1,1" UnitType="Corruptor" Player="1"/>
     <ObjectUnit Id="1393712520" Position="38.6547,66.3395,0" Rotation="2.9975" Scale="1,1,1" UnitType="AP_Mutalisk" Player="1"/>
     <ObjectUnit Id="426808620" Position="70,18,0" Rotation="5.9338" Scale="1,1,1" UnitType="GreaterSpire" Player="1"/>
     <ObjectUnit Id="1066921576" Position="75.2712,57.422,0" Rotation="0.2148" Scale="1,1,1" UnitType="Drone" Player="1"/>
     <ObjectUnit Id="1134824423" Position="59.5,18.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_Stargate" Player="1"/>
     <ObjectUnit Id="859967955" Position="12.5263,70.7885,0" Rotation="5.8337" Scale="1,1,1" UnitType="Overlord" Player="1"/>
-    <ObjectUnit Id="2050259802" Position="62.5,62.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Gateway" Player="1"/>
-    <ObjectUnit Id="1961772859" Position="23.5,33.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Barracks" Player="1"/>
     <ObjectUnit Id="210826076" Position="10.8608,25.3093,0" Rotation="3.5017" Scale="1,1,1" UnitType="AP_SCV" Player="1"/>
+    <ObjectUnit Id="1961772859" Position="23.5,33.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Barracks" Player="1"/>
+    <ObjectUnit Id="2050259802" Position="62.5,62.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Gateway" Player="1"/>
     <ObjectUnit Id="1511010367" Position="42.5,28.5,0" Scale="1,1,1" UnitType="RichVespeneGeyser"/>
     <ObjectUnit Id="1274147238" Position="25,31,0" Rotation="5.4975" Scale="1,1,1" UnitType="SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="190794185" Position="12.4116,11.0432,0" Rotation="3.6962" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="213767984" Position="54.5705,50.863,0" Rotation="3.137" Scale="1,1,1" UnitType="AP_Probe" Player="1"/>
     <ObjectUnit Id="1036363119" Position="12.3115,68.2783,0" Rotation="0.7072" Scale="1,1,1" UnitType="Overlord" Player="1"/>
-    <ObjectUnit Id="995681588" Position="73.5,54.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_Extractor" Player="1"/>
-    <ObjectUnit Id="2133256843" Position="78.9958,48.7998,0" Rotation="4.5485" Scale="1,1,1" UnitType="Drone" Player="2"/>
     <ObjectUnit Id="1852150884" Position="45.835,63.463,0" Rotation="3.3022" Scale="1,1,1" UnitType="AP_ScienceVessel" Player="1"/>
+    <ObjectUnit Id="2133256843" Position="78.9958,48.7998,0" Rotation="4.5485" Scale="1,1,1" UnitType="Drone" Player="2"/>
+    <ObjectUnit Id="995681588" Position="73.5,54.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_Extractor" Player="1"/>
     <ObjectUnit Id="1959106608" Position="22.5,9.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="FusionCore" Player="1"/>
     <ObjectUnit Id="1196308676" Position="70.5,54.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_ExtractorRich" Player="1"/>
     <ObjectUnit Id="605363093" Position="35.1982,66.4846,0" Rotation="6.0043" Scale="1,1,1" UnitType="AP_UltraliskBurrowed" Player="1"/>
@@ -114,15 +117,15 @@
     <ObjectUnit Id="56071473" Variation="9" Position="24,63.5,0" Scale="1,1,1" UnitType="RichMineralField"/>
     <ObjectUnit Id="1890959649" Position="33.8776,61.7504,0" Rotation="2.8652" Scale="1,1,1" UnitType="AP_Monitor" Player="1"/>
     <ObjectUnit Id="671196711" Position="11.5,28.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_Refinery" Player="1"/>
-    <ObjectUnit Id="1307020993" Position="85,12,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_PsiDisruptor" Player="2"/>
-    <ObjectUnit Id="294670409" Position="54.0808,26.5097,0" Rotation="0.0341" Scale="1,1,1" UnitType="SiegeTankSieged" Player="1"/>
     <ObjectUnit Id="340173657" Position="46.389,34.4353,0" Rotation="0.3237" Scale="1,1,1" UnitType="AP_SpartanCompany" Player="1"/>
+    <ObjectUnit Id="294670409" Position="54.0808,26.5097,0" Rotation="0.0341" Scale="1,1,1" UnitType="SiegeTankSieged" Player="1"/>
+    <ObjectUnit Id="1307020993" Position="85,12,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_PsiDisruptor" Player="2"/>
     <ObjectUnit Id="1528667292" Position="45.6745,67.536,0" Rotation="2.8393" Scale="1,1,1" UnitType="AP_Hercules" Player="1"/>
     <ObjectUnit Id="269997813" Position="27,9,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="878468220" Position="67.7731,57.51,0" Rotation="3.0734" Scale="1,1,1" UnitType="AP_Drone" Player="1"/>
-    <ObjectUnit Id="907149423" Position="12.4011,66.0415,0" Rotation="0.0383" Scale="1,1,1" UnitType="Overlord" Player="1"/>
-    <ObjectUnit Id="225239323" Position="81.3566,58.8537,0" Rotation="0.8654" Scale="1,1,1" UnitType="Marine" Player="2"/>
     <ObjectUnit Id="226737444" Position="67.5,54.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AssimilatorRich" Player="1"/>
+    <ObjectUnit Id="225239323" Position="81.3566,58.8537,0" Rotation="0.8654" Scale="1,1,1" UnitType="Marine" Player="2"/>
+    <ObjectUnit Id="907149423" Position="12.4011,66.0415,0" Rotation="0.0383" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="2028947965" Position="31.0236,66.9162,0" Rotation="0.3803" Scale="1,1,1" UnitType="AP_PrimalHydraliskBurrowed" Player="1"/>
     <ObjectUnit Id="1356096965" Position="10.3322,68.8212,0" Rotation="3.926" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="2046550045" Position="54.7893,11.3642,0" Rotation="1.8215" Scale="1,1,1" UnitType="Battlecruiser" Player="1"/>
@@ -142,29 +145,29 @@
     <ObjectUnit Id="826319858" Position="24.4492,10.0905,0" Rotation="2.814" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="2037247038" Position="33.87,73.124,0" Rotation="0.1396" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="96253644" Position="36.6105,49.7612,0" Rotation="3.4565" Scale="1,1,1" UnitType="AP_HighTemplarTaldarim" Player="1"/>
-    <ObjectUnit Id="207490121" Position="65.5,74.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_AutomatedExtractor" Player="1"/>
-    <ObjectUnit Id="449518623" Position="47.7316,17.0336,0" Rotation="1.5451" Scale="1,1,1" UnitType="AP_HelsAngelAssault" Player="1"/>
     <ObjectUnit Id="478677141" Position="34.665,43.4345,0" Rotation="0.1564" Scale="1,1,1" UnitType="AP_ColossusPurifier" Player="1"/>
+    <ObjectUnit Id="449518623" Position="47.7316,17.0336,0" Rotation="1.5451" Scale="1,1,1" UnitType="AP_HelsAngelAssault" Player="1"/>
+    <ObjectUnit Id="207490121" Position="65.5,74.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_AutomatedExtractor" Player="1"/>
     <ObjectUnit Id="296460935" Position="39.4484,31.4624,0" Rotation="0.3317" Scale="1,1,1" UnitType="AP_VoidRayShakuras" Player="1"/>
     <ObjectUnit Id="1154488139" Position="31.5278,63.6835,0" Rotation="6.2426" Scale="1,1,1" UnitType="AP_PrimalZerglingBurrowed" Player="1"/>
-    <ObjectUnit Id="2072598797" Position="39.4812,72.8322,0" Rotation="2.6042" Scale="1,1,1" UnitType="AP_MercLiberator" Player="1"/>
     <ObjectUnit Id="916752439" Position="36.9958,41.6716,0" Rotation="3.7077" Scale="1,1,1" UnitType="AP_ArbiterMP" Player="1"/>
+    <ObjectUnit Id="2072598797" Position="39.4812,72.8322,0" Rotation="2.6042" Scale="1,1,1" UnitType="AP_MercLiberator" Player="1"/>
     <ObjectUnit Id="1747329407" Position="79.5,73.5,0" Scale="1,1,1" UnitType="Hatchery" Player="1"/>
     <ObjectUnit Id="1431481290" Position="14.2573,69.1418,0" Rotation="3.7231" Scale="1,1,1" UnitType="Overlord" Player="1"/>
-    <ObjectUnit Id="1222358260" Position="38.7695,56.932,0" Rotation="1.376" Scale="1,1,1" UnitType="AP_WarpPrism" Player="1"/>
     <ObjectUnit Id="1968735345" Position="49.5,46.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_AssimilatorProtossGeyser" Player="1" Resources="5000"/>
+    <ObjectUnit Id="1222358260" Position="38.7695,56.932,0" Rotation="1.376" Scale="1,1,1" UnitType="AP_WarpPrism" Player="1"/>
     <ObjectUnit Id="2036919330" Position="83.3615,35.5698,0" Rotation="6.2092" Scale="1,1,1" UnitType="Overlord" Player="2"/>
     <ObjectUnit Id="757026283" Position="62.5,15.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="FleetBeacon" Player="1"/>
     <ObjectUnit Id="881427614" Position="42.5014,72.7626,0" Rotation="1.9133" Scale="1,1,1" UnitType="AP_Liberator" Player="1"/>
     <ObjectUnit Id="1711890744" Position="67.5,20.5,0" Rotation="0.5234" Scale="1,1,1" UnitType="AP_LurkerDen" Player="1"/>
-    <ObjectUnit Id="714891451" Position="53.67,30.1115,0" Rotation="1.4018" Scale="1,1,1" UnitType="SiegeTank" Player="1"/>
     <ObjectUnit Id="2008041276" Position="38.782,72.3562,0" Rotation="5.1376" Scale="1,1,1" UnitType="Zergling" Player="1"/>
+    <ObjectUnit Id="714891451" Position="53.67,30.1115,0" Rotation="1.4018" Scale="1,1,1" UnitType="SiegeTank" Player="1"/>
     <ObjectUnit Id="939718624" Position="77.2658,47.2395,0" Rotation="3.7131" Scale="1,1,1" UnitType="Drone" Player="2"/>
     <ObjectUnit Id="1246412814" Position="23.5,28.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Refinery" Player="1"/>
     <ObjectUnit Id="2016223347" Position="25,11,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="1991313881" Position="36.4633,68.866,0" Rotation="0.027" Scale="1,1,1" UnitType="AP_RoachBurrowed" Player="1"/>
-    <ObjectUnit Id="950532813" Position="74.5,61.5,0" Scale="1,1,1" UnitType="Hive" Player="1"/>
     <ObjectUnit Id="2121488874" Position="68.5,43.5,0" Scale="1,1,1" UnitType="AP_SpawningPool" Player="1"/>
+    <ObjectUnit Id="950532813" Position="74.5,61.5,0" Scale="1,1,1" UnitType="Hive" Player="1"/>
     <ObjectUnit Id="1179448689" Position="13.429,64.132,0" Rotation="2.0227" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1393013467" Position="59.5,24.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_CyberneticsCore" Player="1"/>
     <ObjectUnit Id="1542907456" Position="33.318,63.2053,0" Rotation="5.6254" Scale="1,1,1" UnitType="AP_PrimalZergling" Player="1"/>
@@ -177,20 +180,21 @@
     <ObjectUnit Id="316034216" Position="21.5,53.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="SensorTower" Player="1"/>
     <ObjectUnit Id="157901970" Position="38.5412,55.7136,0" Rotation="6.1364" Scale="1,1,1" UnitType="AP_Reaver" Player="1"/>
     <ObjectUnit Id="89979709" Position="70,29,0" Rotation="5.4975" Scale="1,1,1" UnitType="Spire" Player="1"/>
-    <ObjectUnit Id="567717348" Position="60,36,0" Scale="1,1,1" UnitType="AP_DarkShrine" Player="1"/>
     <ObjectUnit Id="1723846260" Position="50.1528,15.7292,0" Rotation="2.4265" Scale="1,1,1" UnitType="AP_VikingFighter" Player="1"/>
-    <ObjectUnit Id="1445630146" Position="41.886,43.1511,0" Rotation="1.6066" Scale="1,1,1" UnitType="Colossus" Player="1"/>
+    <ObjectUnit Id="567717348" Position="60,36,0" Scale="1,1,1" UnitType="AP_DarkShrine" Player="1"/>
     <ObjectUnit Id="877765730" Position="35.7436,49.6074,0" Rotation="5.263" Scale="1,1,1" UnitType="AP_HighTemplarTaldarim" Player="1"/>
+    <ObjectUnit Id="1445630146" Position="41.886,43.1511,0" Rotation="1.6066" Scale="1,1,1" UnitType="Colossus" Player="1"/>
     <ObjectUnit Id="514431314" Position="39.0278,37.9062,0" Rotation="4.0278" Scale="1,1,1" UnitType="AP_PhoenixAiur" Player="1"/>
-    <ObjectUnit Id="1840950643" Position="39.8862,40.3383,0" Rotation="0.7563" Scale="1,1,1" UnitType="AP_ImmortalBarrier" Player="1"/>
     <ObjectUnit Id="2048375619" Position="50.365,11.4597,0" Rotation="1.8183" Scale="1,1,1" UnitType="AP_Battlecruiser" Player="1"/>
-    <ObjectUnit Id="1628971682" Position="42.048,49.6843,0" Rotation="1.047" Scale="1,1,1" UnitType="HighTemplar" Player="1"/>
+    <ObjectUnit Id="1840950643" Position="39.8862,40.3383,0" Rotation="0.7563" Scale="1,1,1" UnitType="AP_ImmortalBarrier" Player="1"/>
     <ObjectUnit Id="1154975930" Position="39.4101,49.8,0" Rotation="1.9111" Scale="1,1,1" UnitType="AP_HighTemplar" Player="1"/>
+    <ObjectUnit Id="1628971682" Position="42.048,49.6843,0" Rotation="1.047" Scale="1,1,1" UnitType="HighTemplar" Player="1"/>
     <ObjectUnit Id="1584846042" Position="64.5,54.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Assimilator" Player="1"/>
     <ObjectUnit Id="1959079428" Position="11,55,0" Rotation="5.445" Scale="1,1,1" UnitType="AP_HiveMindEmulator" Player="1"/>
     <ObjectUnit Id="465355386" Position="42.1096,48.3742,0" Rotation="0.752" Scale="1,1,1" UnitType="DarkTemplar" Player="1"/>
     <ObjectUnit Id="15942952" Position="30.9965,65.2617,0" Rotation="4.8703" Scale="1,1,1" UnitType="AP_PrimalRoachBurrowed" Player="1"/>
     <ObjectUnit Id="1708555261" Position="25,9,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
+    <ObjectUnit Id="699638015" Position="38.211,62.8164,0" Rotation="4.0554" Scale="1,1,1" UnitType="AP_Scourge" Player="1"/>
     <ObjectUnit Id="1431221216" Position="31.8486,40.2636,0" Rotation="1.6257" Scale="1,1,1" UnitType="AP_ImmortalTaldarim" Player="1"/>
     <ObjectUnit Id="97778376" Position="46.9218,48.6853,0" Rotation="1.6276" Scale="1,1,1" UnitType="AP_Medic" Player="1"/>
     <ObjectUnit Id="216357120" Position="39.093,61.7915,0" Rotation="1.9294" Scale="1,1,1" UnitType="Sentry" Player="1"/>
@@ -216,12 +220,12 @@
     <ObjectUnit Id="783272447" Position="54.3864,13.8002,0" Rotation="5.319" Scale="1,1,1" UnitType="Banshee" Player="1"/>
     <ObjectUnit Id="1252141989" Position="47.082,46.665,0" Rotation="4.379" Scale="1,1,1" UnitType="AP_Firebat" Player="1"/>
     <ObjectUnit Id="197787518" Position="12.5,69.5,0" Rotation="1.7211" Scale="1,1,1" UnitType="AP_PlanetaryFortress" Player="1"/>
-    <ObjectUnit Id="785970803" Position="59.5,51.5,0" Rotation="4.2404" Scale="1,1,1" UnitType="AP_KhaydarinMonolith" Player="1"/>
     <ObjectUnit Id="1918398416" Position="35.064,61.8144,0" Rotation="1.3723" Scale="1,1,1" UnitType="AP_SentryPurifier" Player="1"/>
+    <ObjectUnit Id="785970803" Position="59.5,51.5,0" Rotation="4.2404" Scale="1,1,1" UnitType="AP_KhaydarinMonolith" Player="1"/>
     <ObjectUnit Id="2057435830" Position="10.2817,8.1635,0" Rotation="1.5908" Scale="1,1,1" UnitType="Overlord" Player="1"/>
-    <ObjectUnit Id="1742447620" Position="45.3913,14.9143,0" Rotation="6.2678" Scale="1,1,1" UnitType="AP_InfestedBanshee" Player="1"/>
-    <ObjectUnit Id="655839878" Position="22.4658,9.7021,0" Rotation="3.6381" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="58108230" Position="35.863,40.387,0" Rotation="3.8623" Scale="1,1,1" UnitType="AP_ImmortalAiur" Player="1"/>
+    <ObjectUnit Id="655839878" Position="22.4658,9.7021,0" Rotation="3.6381" Scale="1,1,1" UnitType="Overlord" Player="1"/>
+    <ObjectUnit Id="1742447620" Position="45.3913,14.9143,0" Rotation="6.2678" Scale="1,1,1" UnitType="AP_InfestedBanshee" Player="1"/>
     <ObjectUnit Id="1464774066" Position="59.5,59.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_WarpGate" Player="1"/>
     <ObjectUnit Id="90404735" Position="20.443,8.9416,0" Rotation="5.296" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="101916249" Position="32.644,66.86,0" Rotation="3.658" Scale="1,1,1" UnitType="AP_PrimalHydralisk" Player="1"/>
@@ -238,8 +242,8 @@
     <ObjectUnit Id="2045058884" Position="77.561,51.9277,0" Rotation="1.4558" Scale="1,1,1" UnitType="Overlord" Player="2"/>
     <ObjectUnit Id="316941314" Position="80.2448,37.5522,0" Rotation="4.2236" Scale="1,1,1" UnitType="Overlord" Player="2"/>
     <ObjectUnit Id="852283679" Position="79.5,54.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="Extractor" Player="1"/>
-    <ObjectUnit Id="718929508" Position="62.5,74.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_AutomatedExtractorRich" Player="1"/>
     <ObjectUnit Id="1508701702" Position="14.5378,71.143,0" Rotation="2.864" Scale="1,1,1" UnitType="Overlord" Player="1"/>
+    <ObjectUnit Id="718929508" Position="62.5,74.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_AutomatedExtractorRich" Player="1"/>
     <ObjectUnit Id="284587916" Position="52.898,44.8918,0" Rotation="4.702" Scale="1,1,1" UnitType="Marauder" Player="1"/>
     <ObjectUnit Id="1302092963" Position="11.5,42.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_EngineeringBay" Player="1"/>
     <ObjectUnit Id="125863430" Position="11,47,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_PsiDisruptor" Player="1"/>
@@ -253,8 +257,8 @@
     <ObjectUnit Id="1931006976" Position="48.4387,34.9531,0" Rotation="4.7402" Scale="1,1,1" UnitType="AP_Goliath" Player="1"/>
     <ObjectUnit Id="1312220078" Position="62.5,27.5,0" Scale="1,1,1" UnitType="RoboticsBay" Player="1"/>
     <ObjectUnit Id="1736128465" Position="82.5,47.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Barracks" Player="2"/>
-    <ObjectUnit Id="1017844240" Position="67.5,31.5,0" Rotation="5.8117" Scale="1,1,1" UnitType="AP_HydraliskDen" Player="1"/>
     <ObjectUnit Id="1059335296" Position="62,36,0" Scale="1,1,1" UnitType="DarkShrine" Player="1"/>
+    <ObjectUnit Id="1017844240" Position="67.5,31.5,0" Rotation="5.8117" Scale="1,1,1" UnitType="AP_HydraliskDen" Player="1"/>
     <ObjectUnit Id="1064967113" Position="14.3188,8.5144,0" Rotation="1.1477" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1242266940" Position="49.5,43.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_AssimilatorShakurasGeyser" Player="1" Resources="5000"/>
     <ObjectUnit Id="2016103127" Position="28.0024,25.507,0" Rotation="5.3833" Scale="1,1,1" UnitType="SCV" Player="1"/>
@@ -262,12 +266,12 @@
     <ObjectUnit Id="133792126" Position="70.5,15.5,0" Rotation="0.5234" Scale="1,1,1" UnitType="UltraliskCavern" Player="1"/>
     <ObjectUnit Id="1554512269" Position="10.6535,73.1923,0" Rotation="1.2055" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1950553668" Position="38.4104,43.0334,0" Rotation="4.264" Scale="1,1,1" UnitType="AP_Colossus" Player="1"/>
-    <ObjectUnit Id="1272187445" Position="19,9,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="60255982" Position="76.0314,57.5314,0" Rotation="2.2233" Scale="1,1,1" UnitType="Drone" Player="1"/>
+    <ObjectUnit Id="1272187445" Position="19,9,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="1164864386" Position="59.5,21.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_StargateWarp" Player="1"/>
     <ObjectUnit Id="799924444" Position="37.8386,66.829,0" Rotation="0.2792" Scale="1,1,1" UnitType="AP_Ultralisk" Player="1"/>
-    <ObjectUnit Id="1613694586" Position="62.5,18.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Stargate" Player="1"/>
     <ObjectUnit Id="2133932280" Position="66.9265,51.2622,0" Rotation="5.4484" Scale="1,1,1" UnitType="Probe" Player="1"/>
+    <ObjectUnit Id="1613694586" Position="62.5,18.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Stargate" Player="1"/>
     <ObjectUnit Id="1739461556" Position="69.6413,57.3566,0" Rotation="6.1848" Scale="1,1,1" UnitType="AP_Drone" Player="1"/>
     <ObjectUnit Id="1389206795" Position="12.5,14.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_AutomatedRefineryRich" Player="1"/>
     <ObjectUnit Id="575997162" Position="11.5,58.5,0" Scale="1,1,1" UnitType="AP_Armory" Player="1"/>
@@ -280,9 +284,9 @@
     <ObjectUnit Id="158248947" Position="49.471,26.5017,0" Rotation="3.1225" Scale="1,1,1" UnitType="AP_SiegeTankSieged" Player="1"/>
     <ObjectUnit Id="1522301202" Position="42.6677,56.0361,0" Rotation="5.7026" Scale="1,1,1" UnitType="AP_ThorAP" Player="1"/>
     <ObjectUnit Id="350957793" Position="59.5,30.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_RoboticsFacility" Player="1"/>
-    <ObjectUnit Id="940181344" Position="63.5,47.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Nexus" Player="1"/>
-    <ObjectUnit Id="1068372707" Position="58.5,41.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SensorTower" Player="1"/>
     <ObjectUnit Id="902115178" Position="54.5,54.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_AssimilatorRich" Player="1"/>
+    <ObjectUnit Id="1068372707" Position="58.5,41.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SensorTower" Player="1"/>
+    <ObjectUnit Id="940181344" Position="63.5,47.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Nexus" Player="1"/>
     <ObjectUnit Id="449374778" Position="41.1184,49.8388,0" Rotation="3.2526" Scale="1,1,1" UnitType="HighTemplar" Player="1"/>
     <ObjectUnit Id="1531894257" Position="37.1296,30.951,0" Rotation="5.9802" Scale="1,1,1" UnitType="AP_VoidRayTaldarim" Player="1"/>
     <ObjectUnit Id="944611088" Position="66.8647,57.422,0" Rotation="0.862" Scale="1,1,1" UnitType="AP_Drone" Player="1"/>
@@ -290,8 +294,8 @@
     <ObjectUnit Id="1254574548" Position="60,9,0" Scale="1,1,1" UnitType="AP_Pylon" Player="1"/>
     <ObjectUnit Id="1385889014" Position="55.462,50.6774,0" Rotation="0.8608" Scale="1,1,1" UnitType="AP_Probe" Player="1"/>
     <ObjectUnit Id="1795944983" Position="46.3618,26.6381,0" Rotation="0.0507" Scale="1,1,1" UnitType="AP_SiegeBreakerSieged" Player="1"/>
-    <ObjectUnit Id="1567926061" Position="52.5751,51.2604,0" Rotation="5.1428" Scale="1,1,1" UnitType="Marine" Player="1"/>
     <ObjectUnit Id="900110151" Position="62.4213,21.9777,0" Rotation="3.5417" Scale="1,1,1" UnitType="WarpPrism" Player="1"/>
+    <ObjectUnit Id="1567926061" Position="52.5751,51.2604,0" Rotation="5.1428" Scale="1,1,1" UnitType="Marine" Player="1"/>
     <ObjectUnit Id="415508927" Position="38.3818,69.0146,0" Rotation="3.952" Scale="1,1,1" UnitType="AP_Roach" Player="1"/>
     <ObjectUnit Id="1205192786" Position="42.0554,31.505,0" Rotation="4.6916" Scale="1,1,1" UnitType="VoidRay" Player="1"/>
     <ObjectUnit Id="656673755" Position="36.8386,53.9248,0" Rotation="3.0664" Scale="1,1,1" UnitType="AP_SOAMothershipv4" Player="1"/>
@@ -316,20 +320,20 @@
     <ObjectUnit Id="1958562688" Position="14.373,66.4394,0" Rotation="3.3974" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="2015310324" Position="52.97,42.6125,0" Rotation="1.5874" Scale="1,1,1" UnitType="Reaper" Player="1"/>
     <ObjectUnit Id="1064403060" Position="36.8435,61.7705,0" Rotation="5.0727" Scale="1,1,1" UnitType="AP_SentryAiur" Player="1"/>
-    <ObjectUnit Id="1522914227" Position="69.5,61.5,0" Scale="1,1,1" UnitType="AP_Hive" Player="1"/>
     <ObjectUnit Id="1293775997" Position="52.269,56.5234,0" Rotation="3.4042" Scale="1,1,1" UnitType="Thor" Player="1"/>
+    <ObjectUnit Id="1522914227" Position="69.5,61.5,0" Scale="1,1,1" UnitType="AP_Hive" Player="1"/>
     <ObjectUnit Id="1226409613" Position="41.6791,46.05,0" Rotation="0.3142" Scale="1,1,1" UnitType="Archon" Player="1"/>
-    <ObjectUnit Id="952858757" Position="67.5,15.5,0" Rotation="0.5234" Scale="1,1,1" UnitType="AP_UltraliskCavern" Player="1"/>
     <ObjectUnit Id="1958460385" Position="39.6003,51.215,0" Rotation="6.1606" Scale="1,1,1" UnitType="AP_Stalker" Player="1"/>
+    <ObjectUnit Id="952858757" Position="67.5,15.5,0" Rotation="0.5234" Scale="1,1,1" UnitType="AP_UltraliskCavern" Player="1"/>
     <ObjectUnit Id="702186029" Position="54.6462,15.2985,0" Rotation="5.1884" Scale="1,1,1" UnitType="VikingFighter" Player="1"/>
     <ObjectUnit Id="140769123" Position="41.5541,51.4226,0" Rotation="5.5307" Scale="1,1,1" UnitType="Stalker" Player="1"/>
     <ObjectUnit Id="1457942738" Position="49.9824,17.196,0" Rotation="1.744" Scale="1,1,1" UnitType="AP_VikingAssault" Player="1"/>
     <ObjectUnit Id="1607961518" Position="34.5395,49.8774,0" Rotation="3.4475" Scale="1,1,1" UnitType="AP_HighTemplarShakuras" Player="1"/>
     <ObjectUnit Id="1556716885" Position="59.5,43.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_Forge" Player="1"/>
     <ObjectUnit Id="1567314390" Position="59.5,62.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_Gateway" Player="1"/>
-    <ObjectUnit Id="1431903728" Position="59.5,27.5,0" Scale="1,1,1" UnitType="AP_RoboticsBay" Player="1"/>
-    <ObjectUnit Id="2010878629" Position="13.0554,56.4477,0" Rotation="5.0852" Scale="1,1,1" UnitType="HighTemplar" Player="2"/>
     <ObjectUnit Id="257867976" Position="23.5,42.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="EngineeringBay" Player="1"/>
+    <ObjectUnit Id="2010878629" Position="13.0554,56.4477,0" Rotation="5.0852" Scale="1,1,1" UnitType="HighTemplar" Player="2"/>
+    <ObjectUnit Id="1431903728" Position="59.5,27.5,0" Scale="1,1,1" UnitType="AP_RoboticsBay" Player="1"/>
     <ObjectUnit Id="378774224" Position="23.5,36.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Factory" Player="1"/>
     <ObjectUnit Id="1763911081" Position="39.5,28.5,0" Scale="1,1,1" UnitType="SpacePlatformGeyser"/>
     <ObjectUnit Id="183714509" Position="54.6372,8.9511,0" Rotation="0.093" Scale="1,1,1" UnitType="Ghost" Player="1"/>
@@ -338,10 +342,10 @@
     <ObjectUnit Id="795748786" Position="26.0244,25.561,0" Rotation="3.6562" Scale="1,1,1" UnitType="SCV" Player="1"/>
     <ObjectUnit Id="912823869" Position="10.5,53.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SensorTower" Player="1"/>
     <ObjectUnit Id="1932128297" Position="49.0388,46.4567,0" Rotation="5.1152" Scale="1,1,1" UnitType="AP_Medivac" Player="1"/>
-    <ObjectUnit Id="1851367890" Variation="1" Position="38.2158,48.665,0" Rotation="5.4533" Scale="1,1,1" UnitType="AP_DarkTemplar" Player="1"/>
-    <ObjectUnit Id="463114663" Position="22,52,0" Rotation="6.2287" Scale="1,1,1" UnitType="MissileTurret" Player="1"/>
-    <ObjectUnit Id="193178412" Position="35.5,21.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_OrbitalCommand" Player="1"/>
     <ObjectUnit Id="430547310" Position="40.6015,66.7053,0" Rotation="1.0107" Scale="1,1,1" UnitType="Mutalisk" Player="1"/>
+    <ObjectUnit Id="193178412" Position="35.5,21.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_OrbitalCommand" Player="1"/>
+    <ObjectUnit Id="463114663" Position="22,52,0" Rotation="6.2287" Scale="1,1,1" UnitType="MissileTurret" Player="1"/>
+    <ObjectUnit Id="1851367890" Variation="1" Position="38.2158,48.665,0" Rotation="5.4533" Scale="1,1,1" UnitType="AP_DarkTemplar" Player="1"/>
     <ObjectUnit Id="2010123842" Variation="4" Position="70,48.5,0" Scale="1,1,1" UnitType="MineralField"/>
     <ObjectUnit Id="1495843693" Position="64.9565,51.0598,0" Rotation="5.7138" Scale="1,1,1" UnitType="Probe" Player="1"/>
     <ObjectUnit Id="1573159496" Position="60,41,0" Rotation="5.2363" Scale="1,1,1" UnitType="AP_PhotonCannon" Player="1"/>
@@ -349,8 +353,8 @@
     <ObjectUnit Id="270815767" Position="40.1245,64.516,0" Rotation="4.944" Scale="1,1,1" UnitType="Hydralisk" Player="1"/>
     <ObjectUnit Id="2120283668" Position="44.0502,31.844,0" Rotation="2.9411" Scale="1,1,1" UnitType="AP_InfestedSiegeTank" Player="1"/>
     <ObjectUnit Id="974382159" Position="10.379,70.858,0" Rotation="2.2878" Scale="1,1,1" UnitType="Overlord" Player="1"/>
-    <ObjectUnit Id="138906079" Position="62.5,59.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="WarpGate" Player="1"/>
     <ObjectUnit Id="1437649828" Position="36.9697,64.6914,0" Rotation="3.7412" Scale="1,1,1" UnitType="AP_Hydralisk" Player="1"/>
+    <ObjectUnit Id="138906079" Position="62.5,59.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="WarpGate" Player="1"/>
     <ObjectUnit Id="1992289703" Position="12.2895,8.2333,0" Rotation="0.5026" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="40796730" Position="78.9912,47.2182,0" Rotation="0.5134" Scale="1,1,1" UnitType="Drone" Player="2"/>
     <ObjectUnit Id="1604539084" Variation="5" Position="17,63.5,0" Scale="1,1,1" UnitType="RichMineralField750"/>
@@ -359,18 +363,18 @@
     <ObjectUnit Id="594390925" Position="44.445,51.1892,0" Rotation="4.053" Scale="1,1,1" UnitType="AP_WarPig" Player="1"/>
     <ObjectUnit Id="71933745" Position="48.1892,13.7312,0" Rotation="3.915" Scale="1,1,1" UnitType="AP_DuskWing" Player="1"/>
     <ObjectUnit Id="952476305" Position="42.2854,37.632,0" Rotation="1.1867" Scale="1,1,1" UnitType="Phoenix" Player="1"/>
-    <ObjectUnit Id="927829877" Position="12.1376,74.6467,0" Rotation="2.1665" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="219767495" Position="14.483,11.1713,0" Rotation="0.8876" Scale="1,1,1" UnitType="Overlord" Player="1"/>
+    <ObjectUnit Id="927829877" Position="12.1376,74.6467,0" Rotation="2.1665" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="494740811" Position="68.7521,57.3342,0" Rotation="5.721" Scale="1,1,1" UnitType="AP_Drone" Player="1"/>
     <ObjectUnit Id="547202711" Position="45.8237,75.8334,0" Rotation="5.7551" Scale="1,1,1" UnitType="AP_ValkyrieSCBW" Player="1"/>
-    <ObjectUnit Id="885634290" Position="23,31,0" Rotation="5.4975" Scale="1,1,1" UnitType="SupplyDepot" Player="1"/>
     <ObjectUnit Id="1059596766" Position="11,9,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
+    <ObjectUnit Id="885634290" Position="23,31,0" Rotation="5.4975" Scale="1,1,1" UnitType="SupplyDepot" Player="1"/>
     <ObjectUnit Id="1597795390" Position="51.6035,59.5493,0" Rotation="1.7385" Scale="1,1,1" UnitType="Raven" Player="1"/>
     <ObjectUnit Id="200848968" Position="78.5,62.5,0" Scale="1,1,1" UnitType="CreepTumorBurrowed" Player="1"/>
-    <ObjectUnit Id="188427574" Position="12.5,21.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_CommandCenter" Player="1"/>
-    <ObjectUnit Id="1585980371" Position="22.5,49.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Bunker" Player="1"/>
-    <ObjectUnit Id="996064019" Position="57.5,54.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_Assimilator" Player="1"/>
     <ObjectUnit Id="1778251449" Position="49.5,50.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_AssimilatorPurifierGeyser" Player="1" Resources="5000"/>
+    <ObjectUnit Id="996064019" Position="57.5,54.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_Assimilator" Player="1"/>
+    <ObjectUnit Id="1585980371" Position="22.5,49.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Bunker" Player="1"/>
+    <ObjectUnit Id="188427574" Position="12.5,21.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_CommandCenter" Player="1"/>
     <ObjectUnit Id="992564777" Position="27,11,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="276858753" Position="36.7653,48.3237,0" Rotation="0.0478" Scale="1,1,1" UnitType="AP_DarkTemplarAiur" Player="1"/>
     <ObjectUnit Id="1832382845" Position="10.3461,66.7885,0" Rotation="3.8518" Scale="1,1,1" UnitType="Overlord" Player="1"/>
@@ -380,33 +384,33 @@
     <ObjectUnit Id="45619051" Position="43.24,48.6872,0" Rotation="0.8073" Scale="1,1,1" UnitType="AP_InfestedMedic" Player="1"/>
     <ObjectUnit Id="347161983" Position="13,31,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_SupplyDepotLowered" Player="1"/>
     <ObjectUnit Id="2098050702" Position="63,9,0" Scale="1,1,1" UnitType="Pylon" Player="1"/>
-    <ObjectUnit Id="888062353" Position="37.1833,44.34,0" Rotation="0.8554" Scale="1,1,1" UnitType="AP_CorsairMP" Player="1"/>
     <ObjectUnit Id="2068786772" Position="62.5,38.5,0" Rotation="0.7851" Scale="1,1,1" UnitType="TemplarArchive" Player="1"/>
+    <ObjectUnit Id="888062353" Position="37.1833,44.34,0" Rotation="0.8554" Scale="1,1,1" UnitType="AP_CorsairMP" Player="1"/>
     <ObjectUnit Id="1953224373" Position="23.5,39.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="Starport" Player="1"/>
     <ObjectUnit Id="67863349" Position="36.497,34.6662,0" Rotation="3.0727" Scale="1,1,1" UnitType="AP_CarrierAiur" Player="1"/>
     <ObjectUnit Id="1368812727" Position="67.5,40.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_EvolutionChamber" Player="1"/>
-    <ObjectUnit Id="547763890" Position="62,41,0" Rotation="3.1977" Scale="1,1,1" UnitType="PhotonCannon" Player="1"/>
     <ObjectUnit Id="1678141236" Position="83,12,0" Rotation="5.8786" Scale="1,1,1" UnitType="AP_MissileTurret" Player="2"/>
-    <ObjectUnit Id="1020610112" Position="35.347,48.3237,0" Rotation="5.6735" Scale="1,1,1" UnitType="AP_DarkTemplarTaldarim" Player="1"/>
+    <ObjectUnit Id="547763890" Position="62,41,0" Rotation="3.1977" Scale="1,1,1" UnitType="PhotonCannon" Player="1"/>
     <ObjectUnit Id="1744608758" Variation="7" Position="40,15.5,0" Scale="1,1,1" UnitType="MineralFieldOpaque"/>
+    <ObjectUnit Id="1020610112" Position="35.347,48.3237,0" Rotation="5.6735" Scale="1,1,1" UnitType="AP_DarkTemplarTaldarim" Player="1"/>
     <ObjectUnit Id="781094617" Position="15,63.5,0" Scale="1,1,1" UnitType="RichMineralField"/>
     <ObjectUnit Id="1782256589" Position="36.4614,63.236,0" Rotation="0.5273" Scale="1,1,1" UnitType="AP_ZealotShakuras" Player="1"/>
+    <ObjectUnit Id="1179584804" Position="32.239,43.5532,0" Rotation="3.4621" Scale="1,1,1" UnitType="AP_ColossusTaldarim" Player="1"/>
     <ObjectUnit Id="1005576345" Position="37.892,73.5712,0" Rotation="1.2258" Scale="1,1,1" UnitType="AP_WidowMine" Player="1">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="1179584804" Position="32.239,43.5532,0" Rotation="3.4621" Scale="1,1,1" UnitType="AP_ColossusTaldarim" Player="1"/>
     <ObjectUnit Id="883636517" Position="43.3757,34.4631,0" Rotation="5.7194" Scale="1,1,1" UnitType="AP_NovaHero" Player="1"/>
     <ObjectUnit Id="1193367013" Position="37.6838,40.3764,0" Rotation="5.663" Scale="1,1,1" UnitType="AP_Immortal" Player="1"/>
     <ObjectUnit Id="1776619771" Variation="1" Position="52,47.5,0" Scale="1,1,1" UnitType="MineralField"/>
-    <ObjectUnit Id="1335410210" Position="14.5,28.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_RefineryRich" Player="1"/>
     <ObjectUnit Id="978018381" Position="70.5,34.5,0" Rotation="5.707" Scale="1,1,1" UnitType="RoachWarren" Player="1"/>
+    <ObjectUnit Id="1335410210" Position="14.5,28.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_RefineryRich" Player="1"/>
     <ObjectUnit Id="402709038" Position="16.488,11.1464,0" Rotation="5.3073" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="882290548" Position="70.5,40.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="EvolutionChamber" Player="1"/>
     <ObjectUnit Id="2146160472" Position="73.6806,57.4875,0" Rotation="2.856" Scale="1,1,1" UnitType="Drone" Player="1"/>
     <ObjectUnit Id="677591086" Position="14.4204,54.4035,0" Rotation="5.2402" Scale="1,1,1" UnitType="Drone" Player="2"/>
     <ObjectUnit Id="527589026" Position="16.5,9.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_FusionCore" Player="1"/>
-    <ObjectUnit Id="443789471" Position="67.5,26.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_InfestationPit" Player="1"/>
     <ObjectUnit Id="2022046780" Position="40.0893,41.1857,0" Rotation="5.6147" Scale="1,1,1" UnitType="AP_ArbiterMP" Player="1"/>
+    <ObjectUnit Id="443789471" Position="67.5,26.5,0" Rotation="5.7595" Scale="1,1,1" UnitType="AP_InfestationPit" Player="1"/>
     <ObjectUnit Id="17491870" Position="19.7604,13,0" Rotation="4.0253" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="882874407" Position="34.7226,11.0922,0" Rotation="5.4296" Scale="1,1,1" UnitType="AP_DukesRevenge" Player="1"/>
     <ObjectUnit Id="634798537" Position="41.761,45.7973,0" Rotation="4.3283" Scale="1,1,1" UnitType="Observer" Player="1"/>
@@ -419,26 +423,27 @@
     <ObjectUnit Id="604343999" Position="36.5,28.5,0" Scale="1,1,1" UnitType="RichVespeneGeyser"/>
     <ObjectUnit Id="101641042" Position="59.5,38.5,0" Rotation="0.7851" Scale="1,1,1" UnitType="AP_TemplarArchive" Player="1"/>
     <ObjectUnit Id="285056191" Position="36.335,70.7895,0" Rotation="2.142" Scale="1,1,1" UnitType="AP_Cyclone" Player="1"/>
-    <ObjectUnit Id="1557184854" Position="83,26,0" Rotation="5.067" Scale="1,1,1" UnitType="AP_PerditionTurret" Player="2"/>
     <ObjectUnit Id="1845643553" Position="38.7927,46.1252,0" Rotation="2.684" Scale="1,1,1" UnitType="AP_Archon" Player="1"/>
+    <ObjectUnit Id="1557184854" Position="83,26,0" Rotation="5.067" Scale="1,1,1" UnitType="AP_PerditionTurret" Player="2"/>
     <ObjectUnit Id="911616620" Position="35.0361,51.2226,0" Rotation="0.891" Scale="1,1,1" UnitType="AP_Slayer" Player="1"/>
     <ObjectUnit Id="922176363" Position="39.282,63.34,0" Rotation="1.6945" Scale="1,1,1" UnitType="Zealot" Player="1"/>
     <ObjectUnit Id="1516821162" Position="38.093,61.7705,0" Rotation="4.5837" Scale="1,1,1" UnitType="AP_SentryAiur" Player="1"/>
     <ObjectUnit Id="1545054340" Position="47.1486,44.5766,0" Rotation="3.522" Scale="1,1,1" UnitType="AP_Marauder" Player="1"/>
-    <ObjectUnit Id="901381566" Position="77.1281,45.6953,0" Rotation="0.6501" Scale="1,1,1" UnitType="Drone" Player="2"/>
     <ObjectUnit Id="612155445" Position="59.5,33.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_RoboticsFacilityWarp" Player="1"/>
-    <ObjectUnit Id="736911672" Position="60.9792,10.9384,0" Rotation="5.8115" Scale="1,1,1" UnitType="WarpPrism" Player="1"/>
+    <ObjectUnit Id="901381566" Position="77.1281,45.6953,0" Rotation="0.6501" Scale="1,1,1" UnitType="Drone" Player="2"/>
     <ObjectUnit Id="1251418259" Position="49.7253,19.1074,0" Rotation="4.4846" Scale="1,1,1" UnitType="AP_Wraith" Player="1"/>
+    <ObjectUnit Id="736911672" Position="60.9792,10.9384,0" Rotation="5.8115" Scale="1,1,1" UnitType="WarpPrism" Player="1"/>
     <ObjectUnit Id="1439932085" Position="11.5,49.5,0" Rotation="3.2822" Scale="1,1,1" UnitType="AP_Bunker" Player="1">
         <Flag Index="ForcePlacement" Value="1"/>
     </ObjectUnit>
-    <ObjectUnit Id="988344037" Position="20.45,11.0695,0" Rotation="3.12" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1303705669" Position="11,45,0" Rotation="1.8771" Scale="1,1,1" UnitType="AP_PerditionTurret" Player="1"/>
+    <ObjectUnit Id="988344037" Position="20.45,11.0695,0" Rotation="3.12" Scale="1,1,1" UnitType="Overlord" Player="1"/>
     <ObjectUnit Id="1215282036" Position="11.5,36.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="AP_Factory" Player="1"/>
     <ObjectUnit Id="1219185572" Position="39.131,35.0473,0" Rotation="5.1374" Scale="1,1,1" UnitType="AP_Carrier" Player="1"/>
     <ObjectUnit Id="1307576628" Position="54.2683,21.59,0" Rotation="5.8845" Scale="1,1,1" UnitType="Medivac" Player="1"/>
-    <ObjectUnit Id="1861933035" Position="37.8361,51.377,0" Rotation="3.3986" Scale="1,1,1" UnitType="AP_StalkerShakuras" Player="1"/>
     <ObjectUnit Id="1899148923" Position="56.3876,50.863,0" Rotation="4.0297" Scale="1,1,1" UnitType="AP_Probe" Player="1"/>
+    <ObjectUnit Id="1861933035" Position="37.8361,51.377,0" Rotation="3.3986" Scale="1,1,1" UnitType="AP_StalkerShakuras" Player="1"/>
+    <ObjectUnit Id="506431555" Position="77.4973,44.0761,0" Rotation="5.6301" Scale="1,1,1" UnitType="SCV" Player="2"/>
     <ObjectUnit Id="738839946" Position="26.5,28.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="RefineryRich" Player="1"/>
     <ObjectUnit Id="2134006660" Position="33.1728,69.4067,0" Rotation="3.6115" Scale="1,1,1" UnitType="AP_HotSLeviathan" Player="1"/>
 </PlacedObjects>
