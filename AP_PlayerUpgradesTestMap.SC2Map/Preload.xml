@@ -4,6 +4,8 @@
 <Behavior id="AP_BurstCapacitorsDamageBuff"/>
 <Terrain id="Char"/>
 <Unit id="Colossus"/>
+<Unit id="InfestorTerran"/>
+<Unit id="Baneling"/>
 <Unit id="CommandCenter"/>
 <Unit id="SupplyDepot"/>
 <Unit id="Refinery"/>
@@ -84,6 +86,7 @@
 <Unit id="Roach"/>
 <Unit id="Infestor"/>
 <Unit id="Corruptor"/>
+<Unit id="BroodLord"/>
 <Unit id="Queen"/>
 <Unit id="Overseer"/>
 <Unit id="PlanetaryFortress"/>
@@ -93,6 +96,7 @@
 <Unit id="Archon"/>
 <Unit id="RichMineralField" Variations="0,9"/>
 <Unit id="RichMineralField750" Variations="0,5"/>
+<Unit id="Ravager"/>
 <Unit id="ShieldBattery"/>
 <Unit id="AssimilatorRich"/>
 <Unit id="RichVespeneGeyser"/>
@@ -101,6 +105,7 @@
 <Unit id="MineralField450" Variations="4,6"/>
 <Unit id="MineralFieldOpaque" Variations="2,7"/>
 <Unit id="SpacePlatformGeyser"/>
+<Unit id="AP_SwarmHostBurrowed"/>
 <Unit id="AP_Thor"/>
 <Unit id="AP_ThorAP"/>
 <Unit id="AP_MercThor"/>
@@ -135,6 +140,7 @@
 <Unit id="AP_Medic"/>
 <Unit id="AP_Firebat"/>
 <Unit id="AP_Spectre"/>
+<Unit id="AP_HERC"/>
 <Unit id="AP_Barracks"/>
 <Unit id="AP_PerditionTurret"/>
 <Unit id="AP_Archon"/>
@@ -149,10 +155,14 @@
 <Unit id="AP_PlanetaryFortress"/>
 <Unit id="AP_RoachBurrowed"/>
 <Unit id="AP_Roach"/>
+<Unit id="AP_Ravager"/>
 <Unit id="AP_UltraliskBurrowed"/>
 <Unit id="AP_Ultralisk"/>
+<Unit id="AP_Lurker"/>
 <Unit id="AP_Hydralisk"/>
+<Unit id="AP_Infestor"/>
 <Unit id="AP_DarkArchon"/>
+<Unit id="AP_Baneling"/>
 <Unit id="AP_Zergling"/>
 <Unit id="AP_Extractor"/>
 <Unit id="AP_CreepTumorBurrowed"/>
@@ -165,15 +175,22 @@
 <Unit id="AP_PrimalRoach"/>
 <Unit id="AP_PrimalUltraliskBurrowed"/>
 <Unit id="AP_PrimalUltralisk"/>
+<Unit id="AP_InfestorTerran"/>
 <Unit id="AP_Hellion"/>
 <Unit id="AP_Goliath"/>
 <Unit id="AP_Diamondback"/>
 <Unit id="AP_Vulture"/>
 <Unit id="AP_Predator"/>
 <Unit id="AP_Cyclone"/>
+<Unit id="AP_WarHound"/>
 <Unit id="AP_Starport"/>
 <Unit id="AP_OrbitalCommand"/>
+<Unit id="AP_Impaler"/>
 <Unit id="AP_HellionTank"/>
+<Unit id="AP_SwarmHost"/>
+<Unit id="AP_SwarmHostRooted"/>
+<Unit id="AP_BroodLord"/>
+<Unit id="AP_Viper"/>
 <Unit id="AP_PhoenixAiur"/>
 <Unit id="AP_PhoenixPurifier"/>
 <Unit id="AP_CorsairMP"/>
@@ -234,6 +251,8 @@
 <Unit id="AP_Overlord"/>
 <Unit id="AP_Mutalisk"/>
 <Unit id="AP_Corruptor"/>
+<Unit id="AP_SIQueen"/>
+<Unit id="AP_DefilerSCBW"/>
 <Unit id="AP_Scourge"/>
 <Unit id="AP_K5Kerrigan"/>
 <Unit id="AP_Medivac"/>
@@ -281,6 +300,8 @@
 <Unit id="AP_RoachWarren"/>
 <Unit id="AP_InfestedMedic"/>
 <Unit id="AP_InfestedBanshee"/>
+<Unit id="AP_DevourerSCBW"/>
+<Unit id="AP_GuardianSCBW"/>
 <Unit id="AP_AssimilatorPurifierGeyser"/>
 <Unit id="AP_AssimilatorProtossGeyser"/>
 <Unit id="AP_AssimilatorShakurasGeyser"/>
