@@ -92,6 +92,7 @@
 <Unit id="PlanetaryFortress"/>
 <Unit id="OrbitalCommand"/>
 <Unit id="WarpGate"/>
+<Unit id="WarpPrismPhasing"/>
 <Unit id="CreepTumorBurrowed"/>
 <Unit id="Archon"/>
 <Unit id="RichMineralField" Variations="0,9"/>
@@ -105,6 +106,11 @@
 <Unit id="MineralField450" Variations="4,6"/>
 <Unit id="MineralFieldOpaque" Variations="2,7"/>
 <Unit id="SpacePlatformGeyser"/>
+<Unit id="AP_Zergling"/>
+<Unit id="AP_Drone"/>
+<Unit id="AP_Roach"/>
+<Unit id="AP_Hydralisk"/>
+<Unit id="AP_InfestedAbomination"/>
 <Unit id="AP_SwarmHostBurrowed"/>
 <Unit id="AP_Thor"/>
 <Unit id="AP_ThorAP"/>
@@ -135,7 +141,7 @@
 <Unit id="AP_BarracksReactor"/>
 <Unit id="AP_BarracksTechReactor"/>
 <Unit id="AP_Marine"/>
-<Unit id="AP_Ghost"/>
+<Unit id="AP_Ghost" Variations="0"/>
 <Unit id="AP_Marauder"/>
 <Unit id="AP_Medic"/>
 <Unit id="AP_Firebat"/>
@@ -154,16 +160,15 @@
 <Unit id="AP_CommandCenter"/>
 <Unit id="AP_PlanetaryFortress"/>
 <Unit id="AP_RoachBurrowed"/>
-<Unit id="AP_Roach"/>
 <Unit id="AP_Ravager"/>
 <Unit id="AP_UltraliskBurrowed"/>
 <Unit id="AP_Ultralisk"/>
 <Unit id="AP_Lurker"/>
-<Unit id="AP_Hydralisk"/>
+<Unit id="AP_HunterKillerBurrowed"/>
+<Unit id="AP_HunterKiller"/>
 <Unit id="AP_Infestor"/>
 <Unit id="AP_DarkArchon"/>
 <Unit id="AP_Baneling"/>
-<Unit id="AP_Zergling"/>
 <Unit id="AP_Extractor"/>
 <Unit id="AP_CreepTumorBurrowed"/>
 <Unit id="AP_QueenBurrowed"/>
@@ -202,6 +207,11 @@
 <Unit id="AP_SOAMothershipv4"/>
 <Unit id="AP_ScoutMP"/>
 <Unit id="AP_Oracle"/>
+<Unit id="AP_VoidRayAiur"/>
+<Unit id="AP_VoidRayPurifier"/>
+<Unit id="AP_CarrierTaldarim"/>
+<Unit id="AP_CarrierPurifier"/>
+<Unit id="AP_PhoenixTaldarim"/>
 <Unit id="AP_RoboticsFacility"/>
 <Unit id="AP_WarpPrism"/>
 <Unit id="AP_Observer"/>
@@ -212,6 +222,7 @@
 <Unit id="AP_ImmortalTaldarim"/>
 <Unit id="AP_Reaver"/>
 <Unit id="AP_Disruptor"/>
+<Unit id="AP_ImmortalPurifier"/>
 <Unit id="AP_PhotonCannon"/>
 <Unit id="AP_Probe"/>
 <Unit id="AP_ZealotAiur"/>
@@ -247,7 +258,6 @@
 <Unit id="AP_WarpGate"/>
 <Unit id="AP_StargateWarp"/>
 <Unit id="AP_RoboticsFacilityWarp"/>
-<Unit id="AP_Drone"/>
 <Unit id="AP_Overlord"/>
 <Unit id="AP_Mutalisk"/>
 <Unit id="AP_Corruptor"/>
@@ -282,6 +292,7 @@
 <Unit id="AP_Armory"/>
 <Unit id="AP_FusionCore"/>
 <Unit id="AP_HiveMindEmulator"/>
+<Unit id="AP_DevastatorTurret"/>
 <Unit id="AP_Immortal"/>
 <Unit id="AP_GreaterSpire"/>
 <Unit id="AP_ImpalerDen"/>
@@ -300,8 +311,15 @@
 <Unit id="AP_RoachWarren"/>
 <Unit id="AP_InfestedMedic"/>
 <Unit id="AP_InfestedBanshee"/>
+<Unit id="AP_MercZergling"/>
+<Unit id="AP_MercUltralisk"/>
+<Unit id="AP_Hunterling"/>
 <Unit id="AP_DevourerSCBW"/>
 <Unit id="AP_GuardianSCBW"/>
+<Unit id="AP_Overseer"/>
+<Unit id="AP_PrimalIgniter"/>
+<Unit id="AP_Tyrannozor"/>
+<Unit id="AP_BattlecruiserMengsk"/>
 <Unit id="AP_AssimilatorPurifierGeyser"/>
 <Unit id="AP_AssimilatorProtossGeyser"/>
 <Unit id="AP_AssimilatorShakurasGeyser"/>

@@ -1,1 +1,2 @@
-﻿Param/Value/24F4C92F=Foo
+﻿Button/Tooltip/PrismaticBeam=The Void Ray's damage output increases the longer the Void Ray remains on a single target.
+Param/Value/24F4C92F=Foo
